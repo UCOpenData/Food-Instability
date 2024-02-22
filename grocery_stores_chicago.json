@@ -1,0 +1,5921 @@
+[
+  {
+    "name": "Whole Foods Market",
+    "address": "1101 South Canal Street Suite 107, Chicago",
+    "latitude": 41.86862259999999,
+    "longitude": -87.6385339
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "44 East Ontario Street, Chicago",
+    "latitude": 41.893436,
+    "longitude": -87.6262507
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "1147 South Wabash Avenue, Chicago",
+    "latitude": 41.8677418,
+    "longitude": -87.6253941
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "550 North State Street, Chicago",
+    "latitude": 41.89228949999999,
+    "longitude": -87.62858399999999
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "370 North Desplaines Street, Chicago",
+    "latitude": 41.8887205,
+    "longitude": -87.6449859
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "1550 North Kingsbury Street, Chicago",
+    "latitude": 41.9086787,
+    "longitude": -87.65264119999999
+  },
+  {
+    "name": "South Loop Market - Van Buren",
+    "address": "235 West Van Buren Street #2219, Chicago",
+    "latitude": 41.8765826,
+    "longitude": -87.6349331
+  },
+  {
+    "name": "Family Dollar",
+    "address": "1533 West Chicago Avenue #37, Chicago",
+    "latitude": 41.89580279999999,
+    "longitude": -87.6663427
+  },
+  {
+    "name": "Bockwinkel's",
+    "address": "222 North Columbus Drive, Chicago",
+    "latitude": 41.88668119999999,
+    "longitude": -87.62213919999999
+  },
+  {
+    "name": "Potash Markets - State St",
+    "address": "875 North State Street, Chicago",
+    "latitude": 41.8987123,
+    "longitude": -87.6280792
+  },
+  {
+    "name": "South Loop Market - Michigan Ave",
+    "address": "1720 South Michigan Avenue, Chicago",
+    "latitude": 41.8584799,
+    "longitude": -87.6241136
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "255 East Grand Avenue, Chicago",
+    "latitude": 41.8911648,
+    "longitude": -87.620426
+  },
+  {
+    "name": "Bockwinkel's",
+    "address": "320 East Ohio Street, Chicago",
+    "latitude": 41.8927663,
+    "longitude": -87.6194187
+  },
+  {
+    "name": "South Loop Market - 9th Street",
+    "address": "8 East 9th Street, Chicago",
+    "latitude": 41.8708216,
+    "longitude": -87.6270708
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "1224 South Wabash Avenue, Chicago",
+    "latitude": 41.866463,
+    "longitude": -87.6262491
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "1 North Halsted Street, Chicago",
+    "latitude": 41.8821688,
+    "longitude": -87.6469767
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "1340 South Canal Street, Chicago",
+    "latitude": 41.8641785,
+    "longitude": -87.6399149
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "102 West Division Street, Chicago",
+    "latitude": 41.904091,
+    "longitude": -87.6317686
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "424 West Division Street, Chicago",
+    "latitude": 41.9048762,
+    "longitude": -87.63966119999999
+  },
+  {
+    "name": "South Loop Market - Cermak",
+    "address": "2135 South Michigan Avenue, Chicago",
+    "latitude": 41.8531859,
+    "longitude": -87.62359819999999
+  },
+  {
+    "name": "Park To Shop Supermarket (Hong Kong Market)",
+    "address": "520 West 24th Place, Chicago",
+    "latitude": 41.84856159999999,
+    "longitude": -87.6409201
+  },
+  {
+    "name": "Best Choice Oriental Grocery",
+    "address": "2403 South Wentworth Avenue, Chicago",
+    "latitude": 41.8489913,
+    "longitude": -87.6317918
+  },
+  {
+    "name": "Potash Markets - Clark Street",
+    "address": "1525 North Clark Street, Chicago",
+    "latitude": 41.9104251,
+    "longitude": -87.6314647
+  },
+  {
+    "name": "South Loop Marketplace",
+    "address": "1254 South Canal Street, Chicago",
+    "latitude": 41.865654,
+    "longitude": -87.6403247
+  },
+  {
+    "name": "Target Grocery",
+    "address": "1 South State Street, Chicago",
+    "latitude": 41.8817753,
+    "longitude": -87.62741899999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "401 East Illinois Street, Chicago",
+    "latitude": 41.8907947,
+    "longitude": -87.61728529999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "1154 South Clark Street, Chicago",
+    "latitude": 41.8682545,
+    "longitude": -87.6310987
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "3 West Chicago Avenue, Chicago",
+    "latitude": 41.8965025,
+    "longitude": -87.62864789999999
+  },
+  {
+    "name": "Stop & Shop Grocery Store",
+    "address": "333 West North Avenue, Chicago",
+    "latitude": 41.910747,
+    "longitude": -87.63832239999999
+  },
+  {
+    "name": "ALDI",
+    "address": "201 West Division Street, Chicago",
+    "latitude": 41.90360949999999,
+    "longitude": -87.6347542
+  },
+  {
+    "name": "Target Grocery",
+    "address": "1101 West Jackson Boulevard, Chicago",
+    "latitude": 41.8770351,
+    "longitude": -87.6554927
+  },
+  {
+    "name": "L'afrique Market",
+    "address": "2001 South State Street, Chicago",
+    "latitude": 41.85512969999999,
+    "longitude": -87.6267532
+  },
+  {
+    "name": "Target Grocery",
+    "address": "1200 North Larrabee Street, Chicago",
+    "latitude": 41.90435009999999,
+    "longitude": -87.644284
+  },
+  {
+    "name": "Park To Shop Supermarket",
+    "address": "1835 South Canal Street, Chicago",
+    "latitude": 41.8565692,
+    "longitude": -87.63840479999999
+  },
+  {
+    "name": "Tai Wah Grocery Store",
+    "address": "2226 South Wentworth Avenue, Chicago",
+    "latitude": 41.852064,
+    "longitude": -87.632227
+  },
+  {
+    "name": "88 Marketplace",
+    "address": "2105 South Jefferson Street Floor 2, Chicago",
+    "latitude": 41.85391850000001,
+    "longitude": -87.64159219999999
+  },
+  {
+    "name": "Rong Shing Hong",
+    "address": "2347 South Wentworth Avenue, Chicago",
+    "latitude": 41.8496798,
+    "longitude": -87.6317251
+  },
+  {
+    "name": "Miranda's Grocery",
+    "address": "1037 West 19th Street, Chicago",
+    "latitude": 41.8565239,
+    "longitude": -87.65302899999999
+  },
+  {
+    "name": "Silver State City Food Co",
+    "address": "2420 South Wentworth Avenue, Chicago",
+    "latitude": 41.84845219999999,
+    "longitude": -87.6320832
+  },
+  {
+    "name": "FreshMart",
+    "address": "2411 South Wallace Street, Chicago",
+    "latitude": 41.8488483,
+    "longitude": -87.64174890000001
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "1101 South Canal Street Suite 107, Chicago",
+    "latitude": 41.86862259999999,
+    "longitude": -87.6385339
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "44 East Ontario Street, Chicago",
+    "latitude": 41.893436,
+    "longitude": -87.6262507
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "1147 South Wabash Avenue, Chicago",
+    "latitude": 41.8677418,
+    "longitude": -87.6253941
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "550 North State Street, Chicago",
+    "latitude": 41.89228949999999,
+    "longitude": -87.62858399999999
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "370 North Desplaines Street, Chicago",
+    "latitude": 41.8887205,
+    "longitude": -87.6449859
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "1550 North Kingsbury Street, Chicago",
+    "latitude": 41.9086787,
+    "longitude": -87.65264119999999
+  },
+  {
+    "name": "South Loop Market - Van Buren",
+    "address": "235 West Van Buren Street #2219, Chicago",
+    "latitude": 41.8765826,
+    "longitude": -87.6349331
+  },
+  {
+    "name": "Family Dollar",
+    "address": "1533 West Chicago Avenue #37, Chicago",
+    "latitude": 41.89580279999999,
+    "longitude": -87.6663427
+  },
+  {
+    "name": "Bockwinkel's",
+    "address": "222 North Columbus Drive, Chicago",
+    "latitude": 41.88668119999999,
+    "longitude": -87.62213919999999
+  },
+  {
+    "name": "Potash Markets - State St",
+    "address": "875 North State Street, Chicago",
+    "latitude": 41.8987123,
+    "longitude": -87.6280792
+  },
+  {
+    "name": "South Loop Market - Michigan Ave",
+    "address": "1720 South Michigan Avenue, Chicago",
+    "latitude": 41.8584799,
+    "longitude": -87.6241136
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "255 East Grand Avenue, Chicago",
+    "latitude": 41.8911648,
+    "longitude": -87.620426
+  },
+  {
+    "name": "Bockwinkel's",
+    "address": "320 East Ohio Street, Chicago",
+    "latitude": 41.8927663,
+    "longitude": -87.6194187
+  },
+  {
+    "name": "South Loop Market - 9th Street",
+    "address": "8 East 9th Street, Chicago",
+    "latitude": 41.8708216,
+    "longitude": -87.6270708
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "1224 South Wabash Avenue, Chicago",
+    "latitude": 41.866463,
+    "longitude": -87.6262491
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "1 North Halsted Street, Chicago",
+    "latitude": 41.8821688,
+    "longitude": -87.6469767
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "1340 South Canal Street, Chicago",
+    "latitude": 41.8641785,
+    "longitude": -87.6399149
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "102 West Division Street, Chicago",
+    "latitude": 41.904091,
+    "longitude": -87.6317686
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "424 West Division Street, Chicago",
+    "latitude": 41.9048762,
+    "longitude": -87.63966119999999
+  },
+  {
+    "name": "South Loop Market - Cermak",
+    "address": "2135 South Michigan Avenue, Chicago",
+    "latitude": 41.8531859,
+    "longitude": -87.62359819999999
+  },
+  {
+    "name": "Best Choice Oriental Grocery",
+    "address": "2403 South Wentworth Avenue, Chicago",
+    "latitude": 41.8489913,
+    "longitude": -87.6317918
+  },
+  {
+    "name": "Potash Markets - Clark Street",
+    "address": "1525 North Clark Street, Chicago",
+    "latitude": 41.9104251,
+    "longitude": -87.6314647
+  },
+  {
+    "name": "South Loop Marketplace",
+    "address": "1254 South Canal Street, Chicago",
+    "latitude": 41.865654,
+    "longitude": -87.6403247
+  },
+  {
+    "name": "Target Grocery",
+    "address": "1 South State Street, Chicago",
+    "latitude": 41.8817753,
+    "longitude": -87.62741899999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "401 East Illinois Street, Chicago",
+    "latitude": 41.8907947,
+    "longitude": -87.61728529999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "1154 South Clark Street, Chicago",
+    "latitude": 41.8682545,
+    "longitude": -87.6310987
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "3 West Chicago Avenue, Chicago",
+    "latitude": 41.8965025,
+    "longitude": -87.62864789999999
+  },
+  {
+    "name": "ALDI",
+    "address": "201 West Division Street, Chicago",
+    "latitude": 41.90360949999999,
+    "longitude": -87.6347542
+  },
+  {
+    "name": "Stop & Shop Grocery Store",
+    "address": "333 West North Avenue, Chicago",
+    "latitude": 41.910747,
+    "longitude": -87.63832239999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "1101 West Jackson Boulevard, Chicago",
+    "latitude": 41.8770351,
+    "longitude": -87.6554927
+  },
+  {
+    "name": "L'afrique Market",
+    "address": "2001 South State Street, Chicago",
+    "latitude": 41.85512969999999,
+    "longitude": -87.6267532
+  },
+  {
+    "name": "Target Grocery",
+    "address": "1200 North Larrabee Street, Chicago",
+    "latitude": 41.90435009999999,
+    "longitude": -87.644284
+  },
+  {
+    "name": "Park To Shop Supermarket",
+    "address": "1835 South Canal Street, Chicago",
+    "latitude": 41.8565692,
+    "longitude": -87.63840479999999
+  },
+  {
+    "name": "Tai Wah Grocery Store",
+    "address": "2226 South Wentworth Avenue, Chicago",
+    "latitude": 41.852064,
+    "longitude": -87.632227
+  },
+  {
+    "name": "88 Marketplace",
+    "address": "2105 South Jefferson Street Floor 2, Chicago",
+    "latitude": 41.85391850000001,
+    "longitude": -87.64159219999999
+  },
+  {
+    "name": "Rong Shing Hong",
+    "address": "2347 South Wentworth Avenue, Chicago",
+    "latitude": 41.8496798,
+    "longitude": -87.6317251
+  },
+  {
+    "name": "Miranda's Grocery",
+    "address": "1037 West 19th Street, Chicago",
+    "latitude": 41.8565239,
+    "longitude": -87.65302899999999
+  },
+  {
+    "name": "Silver State City Food Co",
+    "address": "2420 South Wentworth Avenue, Chicago",
+    "latitude": 41.84845219999999,
+    "longitude": -87.6320832
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "1101 South Canal Street Suite 107, Chicago",
+    "latitude": 41.86862259999999,
+    "longitude": -87.6385339
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "44 East Ontario Street, Chicago",
+    "latitude": 41.893436,
+    "longitude": -87.6262507
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "1147 South Wabash Avenue, Chicago",
+    "latitude": 41.8677418,
+    "longitude": -87.6253941
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "550 North State Street, Chicago",
+    "latitude": 41.89228949999999,
+    "longitude": -87.62858399999999
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "370 North Desplaines Street, Chicago",
+    "latitude": 41.8887205,
+    "longitude": -87.6449859
+  },
+  {
+    "name": "South Loop Market - Van Buren",
+    "address": "235 West Van Buren Street #2219, Chicago",
+    "latitude": 41.8765826,
+    "longitude": -87.6349331
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "1550 North Kingsbury Street, Chicago",
+    "latitude": 41.9086787,
+    "longitude": -87.65264119999999
+  },
+  {
+    "name": "Bockwinkel's",
+    "address": "222 North Columbus Drive, Chicago",
+    "latitude": 41.88668119999999,
+    "longitude": -87.62213919999999
+  },
+  {
+    "name": "Potash Markets - State St",
+    "address": "875 North State Street, Chicago",
+    "latitude": 41.8987123,
+    "longitude": -87.6280792
+  },
+  {
+    "name": "South Loop Market - Michigan Ave",
+    "address": "1720 South Michigan Avenue, Chicago",
+    "latitude": 41.8584799,
+    "longitude": -87.6241136
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "255 East Grand Avenue, Chicago",
+    "latitude": 41.8911648,
+    "longitude": -87.620426
+  },
+  {
+    "name": "Bockwinkel's",
+    "address": "320 East Ohio Street, Chicago",
+    "latitude": 41.8927663,
+    "longitude": -87.6194187
+  },
+  {
+    "name": "South Loop Market - 9th Street",
+    "address": "8 East 9th Street, Chicago",
+    "latitude": 41.8708216,
+    "longitude": -87.6270708
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "1224 South Wabash Avenue, Chicago",
+    "latitude": 41.866463,
+    "longitude": -87.6262491
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "1 North Halsted Street, Chicago",
+    "latitude": 41.8821688,
+    "longitude": -87.6469767
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "1340 South Canal Street, Chicago",
+    "latitude": 41.8641785,
+    "longitude": -87.6399149
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "102 West Division Street, Chicago",
+    "latitude": 41.904091,
+    "longitude": -87.6317686
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "424 West Division Street, Chicago",
+    "latitude": 41.9048762,
+    "longitude": -87.63966119999999
+  },
+  {
+    "name": "South Loop Market - Cermak",
+    "address": "2135 South Michigan Avenue, Chicago",
+    "latitude": 41.8531859,
+    "longitude": -87.62359819999999
+  },
+  {
+    "name": "Best Choice Oriental Grocery",
+    "address": "2403 South Wentworth Avenue, Chicago",
+    "latitude": 41.8489913,
+    "longitude": -87.6317918
+  },
+  {
+    "name": "Potash Markets - Clark Street",
+    "address": "1525 North Clark Street, Chicago",
+    "latitude": 41.9104251,
+    "longitude": -87.6314647
+  },
+  {
+    "name": "South Loop Marketplace",
+    "address": "1254 South Canal Street, Chicago",
+    "latitude": 41.865654,
+    "longitude": -87.6403247
+  },
+  {
+    "name": "Target Grocery",
+    "address": "1 South State Street, Chicago",
+    "latitude": 41.8817753,
+    "longitude": -87.62741899999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "401 East Illinois Street, Chicago",
+    "latitude": 41.8907947,
+    "longitude": -87.61728529999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "1154 South Clark Street, Chicago",
+    "latitude": 41.8682545,
+    "longitude": -87.6310987
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "3 West Chicago Avenue, Chicago",
+    "latitude": 41.8965025,
+    "longitude": -87.62864789999999
+  },
+  {
+    "name": "ALDI",
+    "address": "201 West Division Street, Chicago",
+    "latitude": 41.90360949999999,
+    "longitude": -87.6347542
+  },
+  {
+    "name": "Target Grocery",
+    "address": "1101 West Jackson Boulevard, Chicago",
+    "latitude": 41.8770351,
+    "longitude": -87.6554927
+  },
+  {
+    "name": "Stop & Shop Grocery Store",
+    "address": "333 West North Avenue, Chicago",
+    "latitude": 41.910747,
+    "longitude": -87.63832239999999
+  },
+  {
+    "name": "L'afrique Market",
+    "address": "2001 South State Street, Chicago",
+    "latitude": 41.85512969999999,
+    "longitude": -87.6267532
+  },
+  {
+    "name": "Target Grocery",
+    "address": "1200 North Larrabee Street, Chicago",
+    "latitude": 41.90435009999999,
+    "longitude": -87.644284
+  },
+  {
+    "name": "Park To Shop Supermarket",
+    "address": "1835 South Canal Street, Chicago",
+    "latitude": 41.8565692,
+    "longitude": -87.63840479999999
+  },
+  {
+    "name": "Tai Wah Grocery Store",
+    "address": "2226 South Wentworth Avenue, Chicago",
+    "latitude": 41.852064,
+    "longitude": -87.632227
+  },
+  {
+    "name": "88 Marketplace",
+    "address": "2105 South Jefferson Street Floor 2, Chicago",
+    "latitude": 41.85391850000001,
+    "longitude": -87.64159219999999
+  },
+  {
+    "name": "Rong Shing Hong",
+    "address": "2347 South Wentworth Avenue, Chicago",
+    "latitude": 41.8496798,
+    "longitude": -87.6317251
+  },
+  {
+    "name": "Silver State City Food Co",
+    "address": "2420 South Wentworth Avenue, Chicago",
+    "latitude": 41.84845219999999,
+    "longitude": -87.6320832
+  },
+  {
+    "name": "Miranda's Grocery",
+    "address": "1037 West 19th Street, Chicago",
+    "latitude": 41.8565239,
+    "longitude": -87.65302899999999
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "1101 South Canal Street Suite 107, Chicago",
+    "latitude": 41.86862259999999,
+    "longitude": -87.6385339
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "44 East Ontario Street, Chicago",
+    "latitude": 41.893436,
+    "longitude": -87.6262507
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "1147 South Wabash Avenue, Chicago",
+    "latitude": 41.8677418,
+    "longitude": -87.6253941
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "550 North State Street, Chicago",
+    "latitude": 41.89228949999999,
+    "longitude": -87.62858399999999
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "370 North Desplaines Street, Chicago",
+    "latitude": 41.8887205,
+    "longitude": -87.6449859
+  },
+  {
+    "name": "South Loop Market - Van Buren",
+    "address": "235 West Van Buren Street #2219, Chicago",
+    "latitude": 41.8765826,
+    "longitude": -87.6349331
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "1550 North Kingsbury Street, Chicago",
+    "latitude": 41.9086787,
+    "longitude": -87.65264119999999
+  },
+  {
+    "name": "Bockwinkel's",
+    "address": "222 North Columbus Drive, Chicago",
+    "latitude": 41.88668119999999,
+    "longitude": -87.62213919999999
+  },
+  {
+    "name": "Potash Markets - State St",
+    "address": "875 North State Street, Chicago",
+    "latitude": 41.8987123,
+    "longitude": -87.6280792
+  },
+  {
+    "name": "South Loop Market - Michigan Ave",
+    "address": "1720 South Michigan Avenue, Chicago",
+    "latitude": 41.8584799,
+    "longitude": -87.6241136
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "255 East Grand Avenue, Chicago",
+    "latitude": 41.8911648,
+    "longitude": -87.620426
+  },
+  {
+    "name": "Bockwinkel's",
+    "address": "320 East Ohio Street, Chicago",
+    "latitude": 41.8927663,
+    "longitude": -87.6194187
+  },
+  {
+    "name": "South Loop Market - 9th Street",
+    "address": "8 East 9th Street, Chicago",
+    "latitude": 41.8708216,
+    "longitude": -87.6270708
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "1224 South Wabash Avenue, Chicago",
+    "latitude": 41.866463,
+    "longitude": -87.6262491
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "1 North Halsted Street, Chicago",
+    "latitude": 41.8821688,
+    "longitude": -87.6469767
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "1340 South Canal Street, Chicago",
+    "latitude": 41.8641785,
+    "longitude": -87.6399149
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "102 West Division Street, Chicago",
+    "latitude": 41.904091,
+    "longitude": -87.6317686
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "424 West Division Street, Chicago",
+    "latitude": 41.9048762,
+    "longitude": -87.63966119999999
+  },
+  {
+    "name": "South Loop Market - Cermak",
+    "address": "2135 South Michigan Avenue, Chicago",
+    "latitude": 41.8531859,
+    "longitude": -87.62359819999999
+  },
+  {
+    "name": "Best Choice Oriental Grocery",
+    "address": "2403 South Wentworth Avenue, Chicago",
+    "latitude": 41.8489913,
+    "longitude": -87.6317918
+  },
+  {
+    "name": "Potash Markets - Clark Street",
+    "address": "1525 North Clark Street, Chicago",
+    "latitude": 41.9104251,
+    "longitude": -87.6314647
+  },
+  {
+    "name": "South Loop Marketplace",
+    "address": "1254 South Canal Street, Chicago",
+    "latitude": 41.865654,
+    "longitude": -87.6403247
+  },
+  {
+    "name": "Target Grocery",
+    "address": "1 South State Street, Chicago",
+    "latitude": 41.8817753,
+    "longitude": -87.62741899999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "401 East Illinois Street, Chicago",
+    "latitude": 41.8907947,
+    "longitude": -87.61728529999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "1154 South Clark Street, Chicago",
+    "latitude": 41.8682545,
+    "longitude": -87.6310987
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "3 West Chicago Avenue, Chicago",
+    "latitude": 41.8965025,
+    "longitude": -87.62864789999999
+  },
+  {
+    "name": "ALDI",
+    "address": "201 West Division Street, Chicago",
+    "latitude": 41.90360949999999,
+    "longitude": -87.6347542
+  },
+  {
+    "name": "Target Grocery",
+    "address": "1101 West Jackson Boulevard, Chicago",
+    "latitude": 41.8770351,
+    "longitude": -87.6554927
+  },
+  {
+    "name": "Stop & Shop Grocery Store",
+    "address": "333 West North Avenue, Chicago",
+    "latitude": 41.910747,
+    "longitude": -87.63832239999999
+  },
+  {
+    "name": "L'afrique Market",
+    "address": "2001 South State Street, Chicago",
+    "latitude": 41.85512969999999,
+    "longitude": -87.6267532
+  },
+  {
+    "name": "Park To Shop Supermarket",
+    "address": "1835 South Canal Street, Chicago",
+    "latitude": 41.8565692,
+    "longitude": -87.63840479999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "1200 North Larrabee Street, Chicago",
+    "latitude": 41.90435009999999,
+    "longitude": -87.644284
+  },
+  {
+    "name": "Tai Wah Grocery Store",
+    "address": "2226 South Wentworth Avenue, Chicago",
+    "latitude": 41.852064,
+    "longitude": -87.632227
+  },
+  {
+    "name": "88 Marketplace",
+    "address": "2105 South Jefferson Street Floor 2, Chicago",
+    "latitude": 41.85391850000001,
+    "longitude": -87.64159219999999
+  },
+  {
+    "name": "Rong Shing Hong",
+    "address": "2347 South Wentworth Avenue, Chicago",
+    "latitude": 41.8496798,
+    "longitude": -87.6317251
+  },
+  {
+    "name": "Silver State City Food Co",
+    "address": "2420 South Wentworth Avenue, Chicago",
+    "latitude": 41.84845219999999,
+    "longitude": -87.6320832
+  },
+  {
+    "name": "Miranda's Grocery",
+    "address": "1037 West 19th Street, Chicago",
+    "latitude": 41.8565239,
+    "longitude": -87.65302899999999
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "1101 South Canal Street Suite 107, Chicago",
+    "latitude": 41.86862259999999,
+    "longitude": -87.6385339
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "44 East Ontario Street, Chicago",
+    "latitude": 41.893436,
+    "longitude": -87.6262507
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "1147 South Wabash Avenue, Chicago",
+    "latitude": 41.8677418,
+    "longitude": -87.6253941
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "550 North State Street, Chicago",
+    "latitude": 41.89228949999999,
+    "longitude": -87.62858399999999
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "370 North Desplaines Street, Chicago",
+    "latitude": 41.8887205,
+    "longitude": -87.6449859
+  },
+  {
+    "name": "South Loop Market - Van Buren",
+    "address": "235 West Van Buren Street #2219, Chicago",
+    "latitude": 41.8765826,
+    "longitude": -87.6349331
+  },
+  {
+    "name": "Bockwinkel's",
+    "address": "222 North Columbus Drive, Chicago",
+    "latitude": 41.88668119999999,
+    "longitude": -87.62213919999999
+  },
+  {
+    "name": "Potash Markets - State St",
+    "address": "875 North State Street, Chicago",
+    "latitude": 41.8987123,
+    "longitude": -87.6280792
+  },
+  {
+    "name": "South Loop Market - Michigan Ave",
+    "address": "1720 South Michigan Avenue, Chicago",
+    "latitude": 41.8584799,
+    "longitude": -87.6241136
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "255 East Grand Avenue, Chicago",
+    "latitude": 41.8911648,
+    "longitude": -87.620426
+  },
+  {
+    "name": "Bockwinkel's",
+    "address": "320 East Ohio Street, Chicago",
+    "latitude": 41.8927663,
+    "longitude": -87.6194187
+  },
+  {
+    "name": "South Loop Market - 9th Street",
+    "address": "8 East 9th Street, Chicago",
+    "latitude": 41.8708216,
+    "longitude": -87.6270708
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "1224 South Wabash Avenue, Chicago",
+    "latitude": 41.866463,
+    "longitude": -87.6262491
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "1 North Halsted Street, Chicago",
+    "latitude": 41.8821688,
+    "longitude": -87.6469767
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "1340 South Canal Street, Chicago",
+    "latitude": 41.8641785,
+    "longitude": -87.6399149
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "102 West Division Street, Chicago",
+    "latitude": 41.904091,
+    "longitude": -87.6317686
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "424 West Division Street, Chicago",
+    "latitude": 41.9048762,
+    "longitude": -87.63966119999999
+  },
+  {
+    "name": "South Loop Market - Cermak",
+    "address": "2135 South Michigan Avenue, Chicago",
+    "latitude": 41.8531859,
+    "longitude": -87.62359819999999
+  },
+  {
+    "name": "Best Choice Oriental Grocery",
+    "address": "2403 South Wentworth Avenue, Chicago",
+    "latitude": 41.8489913,
+    "longitude": -87.6317918
+  },
+  {
+    "name": "Potash Markets - Clark Street",
+    "address": "1525 North Clark Street, Chicago",
+    "latitude": 41.9104251,
+    "longitude": -87.6314647
+  },
+  {
+    "name": "South Loop Marketplace",
+    "address": "1254 South Canal Street, Chicago",
+    "latitude": 41.865654,
+    "longitude": -87.6403247
+  },
+  {
+    "name": "Target Grocery",
+    "address": "1 South State Street, Chicago",
+    "latitude": 41.8817753,
+    "longitude": -87.62741899999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "401 East Illinois Street, Chicago",
+    "latitude": 41.8907947,
+    "longitude": -87.61728529999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "1154 South Clark Street, Chicago",
+    "latitude": 41.8682545,
+    "longitude": -87.6310987
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "3 West Chicago Avenue, Chicago",
+    "latitude": 41.8965025,
+    "longitude": -87.62864789999999
+  },
+  {
+    "name": "ALDI",
+    "address": "201 West Division Street, Chicago",
+    "latitude": 41.90360949999999,
+    "longitude": -87.6347542
+  },
+  {
+    "name": "Target Grocery",
+    "address": "1101 West Jackson Boulevard, Chicago",
+    "latitude": 41.8770351,
+    "longitude": -87.6554927
+  },
+  {
+    "name": "L'afrique Market",
+    "address": "2001 South State Street, Chicago",
+    "latitude": 41.85512969999999,
+    "longitude": -87.6267532
+  },
+  {
+    "name": "Stop & Shop Grocery Store",
+    "address": "333 West North Avenue, Chicago",
+    "latitude": 41.910747,
+    "longitude": -87.63832239999999
+  },
+  {
+    "name": "Park To Shop Supermarket",
+    "address": "1835 South Canal Street, Chicago",
+    "latitude": 41.8565692,
+    "longitude": -87.63840479999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "1200 North Larrabee Street, Chicago",
+    "latitude": 41.90435009999999,
+    "longitude": -87.644284
+  },
+  {
+    "name": "Tai Wah Grocery Store",
+    "address": "2226 South Wentworth Avenue, Chicago",
+    "latitude": 41.852064,
+    "longitude": -87.632227
+  },
+  {
+    "name": "88 Marketplace",
+    "address": "2105 South Jefferson Street Floor 2, Chicago",
+    "latitude": 41.85391850000001,
+    "longitude": -87.64159219999999
+  },
+  {
+    "name": "Rong Shing Hong",
+    "address": "2347 South Wentworth Avenue, Chicago",
+    "latitude": 41.8496798,
+    "longitude": -87.6317251
+  },
+  {
+    "name": "Silver State City Food Co",
+    "address": "2420 South Wentworth Avenue, Chicago",
+    "latitude": 41.84845219999999,
+    "longitude": -87.6320832
+  },
+  {
+    "name": "Miranda's Grocery",
+    "address": "1037 West 19th Street, Chicago",
+    "latitude": 41.8565239,
+    "longitude": -87.65302899999999
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "1101 South Canal Street Suite 107, Chicago",
+    "latitude": 41.86862259999999,
+    "longitude": -87.6385339
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "44 East Ontario Street, Chicago",
+    "latitude": 41.893436,
+    "longitude": -87.6262507
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "1147 South Wabash Avenue, Chicago",
+    "latitude": 41.8677418,
+    "longitude": -87.6253941
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "550 North State Street, Chicago",
+    "latitude": 41.89228949999999,
+    "longitude": -87.62858399999999
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "370 North Desplaines Street, Chicago",
+    "latitude": 41.8887205,
+    "longitude": -87.6449859
+  },
+  {
+    "name": "South Loop Market - Van Buren",
+    "address": "235 West Van Buren Street #2219, Chicago",
+    "latitude": 41.8765826,
+    "longitude": -87.6349331
+  },
+  {
+    "name": "Bockwinkel's",
+    "address": "222 North Columbus Drive, Chicago",
+    "latitude": 41.88668119999999,
+    "longitude": -87.62213919999999
+  },
+  {
+    "name": "Potash Markets - State St",
+    "address": "875 North State Street, Chicago",
+    "latitude": 41.8987123,
+    "longitude": -87.6280792
+  },
+  {
+    "name": "South Loop Market - Michigan Ave",
+    "address": "1720 South Michigan Avenue, Chicago",
+    "latitude": 41.8584799,
+    "longitude": -87.6241136
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "255 East Grand Avenue, Chicago",
+    "latitude": 41.8911648,
+    "longitude": -87.620426
+  },
+  {
+    "name": "Bockwinkel's",
+    "address": "320 East Ohio Street, Chicago",
+    "latitude": 41.8927663,
+    "longitude": -87.6194187
+  },
+  {
+    "name": "South Loop Market - 9th Street",
+    "address": "8 East 9th Street, Chicago",
+    "latitude": 41.8708216,
+    "longitude": -87.6270708
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "1224 South Wabash Avenue, Chicago",
+    "latitude": 41.866463,
+    "longitude": -87.6262491
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "1 North Halsted Street, Chicago",
+    "latitude": 41.8821688,
+    "longitude": -87.6469767
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "1340 South Canal Street, Chicago",
+    "latitude": 41.8641785,
+    "longitude": -87.6399149
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "102 West Division Street, Chicago",
+    "latitude": 41.904091,
+    "longitude": -87.6317686
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "424 West Division Street, Chicago",
+    "latitude": 41.9048762,
+    "longitude": -87.63966119999999
+  },
+  {
+    "name": "South Loop Market - Cermak",
+    "address": "2135 South Michigan Avenue, Chicago",
+    "latitude": 41.8531859,
+    "longitude": -87.62359819999999
+  },
+  {
+    "name": "Best Choice Oriental Grocery",
+    "address": "2403 South Wentworth Avenue, Chicago",
+    "latitude": 41.8489913,
+    "longitude": -87.6317918
+  },
+  {
+    "name": "Potash Markets - Clark Street",
+    "address": "1525 North Clark Street, Chicago",
+    "latitude": 41.9104251,
+    "longitude": -87.6314647
+  },
+  {
+    "name": "South Loop Marketplace",
+    "address": "1254 South Canal Street, Chicago",
+    "latitude": 41.865654,
+    "longitude": -87.6403247
+  },
+  {
+    "name": "Target Grocery",
+    "address": "1 South State Street, Chicago",
+    "latitude": 41.8817753,
+    "longitude": -87.62741899999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "401 East Illinois Street, Chicago",
+    "latitude": 41.8907947,
+    "longitude": -87.61728529999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "1154 South Clark Street, Chicago",
+    "latitude": 41.8682545,
+    "longitude": -87.6310987
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "3 West Chicago Avenue, Chicago",
+    "latitude": 41.8965025,
+    "longitude": -87.62864789999999
+  },
+  {
+    "name": "ALDI",
+    "address": "201 West Division Street, Chicago",
+    "latitude": 41.90360949999999,
+    "longitude": -87.6347542
+  },
+  {
+    "name": "L'afrique Market",
+    "address": "2001 South State Street, Chicago",
+    "latitude": 41.85512969999999,
+    "longitude": -87.6267532
+  },
+  {
+    "name": "Target Grocery",
+    "address": "1101 West Jackson Boulevard, Chicago",
+    "latitude": 41.8770351,
+    "longitude": -87.6554927
+  },
+  {
+    "name": "Stop & Shop Grocery Store",
+    "address": "333 West North Avenue, Chicago",
+    "latitude": 41.910747,
+    "longitude": -87.63832239999999
+  },
+  {
+    "name": "Park To Shop Supermarket",
+    "address": "1835 South Canal Street, Chicago",
+    "latitude": 41.8565692,
+    "longitude": -87.63840479999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "1200 North Larrabee Street, Chicago",
+    "latitude": 41.90435009999999,
+    "longitude": -87.644284
+  },
+  {
+    "name": "Tai Wah Grocery Store",
+    "address": "2226 South Wentworth Avenue, Chicago",
+    "latitude": 41.852064,
+    "longitude": -87.632227
+  },
+  {
+    "name": "88 Marketplace",
+    "address": "2105 South Jefferson Street Floor 2, Chicago",
+    "latitude": 41.85391850000001,
+    "longitude": -87.64159219999999
+  },
+  {
+    "name": "Rong Shing Hong",
+    "address": "2347 South Wentworth Avenue, Chicago",
+    "latitude": 41.8496798,
+    "longitude": -87.6317251
+  },
+  {
+    "name": "Silver State City Food Co",
+    "address": "2420 South Wentworth Avenue, Chicago",
+    "latitude": 41.84845219999999,
+    "longitude": -87.6320832
+  },
+  {
+    "name": "Miranda's Grocery",
+    "address": "1037 West 19th Street, Chicago",
+    "latitude": 41.8565239,
+    "longitude": -87.65302899999999
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "1101 South Canal Street Suite 107, Chicago",
+    "latitude": 41.86862259999999,
+    "longitude": -87.6385339
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "44 East Ontario Street, Chicago",
+    "latitude": 41.893436,
+    "longitude": -87.6262507
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "1147 South Wabash Avenue, Chicago",
+    "latitude": 41.8677418,
+    "longitude": -87.6253941
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "550 North State Street, Chicago",
+    "latitude": 41.89228949999999,
+    "longitude": -87.62858399999999
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "370 North Desplaines Street, Chicago",
+    "latitude": 41.8887205,
+    "longitude": -87.6449859
+  },
+  {
+    "name": "South Loop Market - Van Buren",
+    "address": "235 West Van Buren Street #2219, Chicago",
+    "latitude": 41.8765826,
+    "longitude": -87.6349331
+  },
+  {
+    "name": "Bockwinkel's",
+    "address": "222 North Columbus Drive, Chicago",
+    "latitude": 41.88668119999999,
+    "longitude": -87.62213919999999
+  },
+  {
+    "name": "Potash Markets - State St",
+    "address": "875 North State Street, Chicago",
+    "latitude": 41.8987123,
+    "longitude": -87.6280792
+  },
+  {
+    "name": "South Loop Market - Michigan Ave",
+    "address": "1720 South Michigan Avenue, Chicago",
+    "latitude": 41.8584799,
+    "longitude": -87.6241136
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "255 East Grand Avenue, Chicago",
+    "latitude": 41.8911648,
+    "longitude": -87.620426
+  },
+  {
+    "name": "Bockwinkel's",
+    "address": "320 East Ohio Street, Chicago",
+    "latitude": 41.8927663,
+    "longitude": -87.6194187
+  },
+  {
+    "name": "South Loop Market - 9th Street",
+    "address": "8 East 9th Street, Chicago",
+    "latitude": 41.8708216,
+    "longitude": -87.6270708
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "1224 South Wabash Avenue, Chicago",
+    "latitude": 41.866463,
+    "longitude": -87.6262491
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "1 North Halsted Street, Chicago",
+    "latitude": 41.8821688,
+    "longitude": -87.6469767
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "1340 South Canal Street, Chicago",
+    "latitude": 41.8641785,
+    "longitude": -87.6399149
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "102 West Division Street, Chicago",
+    "latitude": 41.904091,
+    "longitude": -87.6317686
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "424 West Division Street, Chicago",
+    "latitude": 41.9048762,
+    "longitude": -87.63966119999999
+  },
+  {
+    "name": "South Loop Market - Cermak",
+    "address": "2135 South Michigan Avenue, Chicago",
+    "latitude": 41.8531859,
+    "longitude": -87.62359819999999
+  },
+  {
+    "name": "Best Choice Oriental Grocery",
+    "address": "2403 South Wentworth Avenue, Chicago",
+    "latitude": 41.8489913,
+    "longitude": -87.6317918
+  },
+  {
+    "name": "Potash Markets - Clark Street",
+    "address": "1525 North Clark Street, Chicago",
+    "latitude": 41.9104251,
+    "longitude": -87.6314647
+  },
+  {
+    "name": "South Loop Marketplace",
+    "address": "1254 South Canal Street, Chicago",
+    "latitude": 41.865654,
+    "longitude": -87.6403247
+  },
+  {
+    "name": "Target Grocery",
+    "address": "1 South State Street, Chicago",
+    "latitude": 41.8817753,
+    "longitude": -87.62741899999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "401 East Illinois Street, Chicago",
+    "latitude": 41.8907947,
+    "longitude": -87.61728529999999
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "3 West Chicago Avenue, Chicago",
+    "latitude": 41.8965025,
+    "longitude": -87.62864789999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "1154 South Clark Street, Chicago",
+    "latitude": 41.8682545,
+    "longitude": -87.6310987
+  },
+  {
+    "name": "ALDI",
+    "address": "201 West Division Street, Chicago",
+    "latitude": 41.90360949999999,
+    "longitude": -87.6347542
+  },
+  {
+    "name": "L'afrique Market",
+    "address": "2001 South State Street, Chicago",
+    "latitude": 41.85512969999999,
+    "longitude": -87.6267532
+  },
+  {
+    "name": "Target Grocery",
+    "address": "1101 West Jackson Boulevard, Chicago",
+    "latitude": 41.8770351,
+    "longitude": -87.6554927
+  },
+  {
+    "name": "Stop & Shop Grocery Store",
+    "address": "333 West North Avenue, Chicago",
+    "latitude": 41.910747,
+    "longitude": -87.63832239999999
+  },
+  {
+    "name": "Park To Shop Supermarket",
+    "address": "1835 South Canal Street, Chicago",
+    "latitude": 41.8565692,
+    "longitude": -87.63840479999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "1200 North Larrabee Street, Chicago",
+    "latitude": 41.90435009999999,
+    "longitude": -87.644284
+  },
+  {
+    "name": "Tai Wah Grocery Store",
+    "address": "2226 South Wentworth Avenue, Chicago",
+    "latitude": 41.852064,
+    "longitude": -87.632227
+  },
+  {
+    "name": "88 Marketplace",
+    "address": "2105 South Jefferson Street Floor 2, Chicago",
+    "latitude": 41.85391850000001,
+    "longitude": -87.64159219999999
+  },
+  {
+    "name": "Rong Shing Hong",
+    "address": "2347 South Wentworth Avenue, Chicago",
+    "latitude": 41.8496798,
+    "longitude": -87.6317251
+  },
+  {
+    "name": "Silver State City Food Co",
+    "address": "2420 South Wentworth Avenue, Chicago",
+    "latitude": 41.84845219999999,
+    "longitude": -87.6320832
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "1101 South Canal Street Suite 107, Chicago",
+    "latitude": 41.86862259999999,
+    "longitude": -87.6385339
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "44 East Ontario Street, Chicago",
+    "latitude": 41.893436,
+    "longitude": -87.6262507
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "1147 South Wabash Avenue, Chicago",
+    "latitude": 41.8677418,
+    "longitude": -87.6253941
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "550 North State Street, Chicago",
+    "latitude": 41.89228949999999,
+    "longitude": -87.62858399999999
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "370 North Desplaines Street, Chicago",
+    "latitude": 41.8887205,
+    "longitude": -87.6449859
+  },
+  {
+    "name": "South Loop Market - Van Buren",
+    "address": "235 West Van Buren Street #2219, Chicago",
+    "latitude": 41.8765826,
+    "longitude": -87.6349331
+  },
+  {
+    "name": "Bockwinkel's",
+    "address": "222 North Columbus Drive, Chicago",
+    "latitude": 41.88668119999999,
+    "longitude": -87.62213919999999
+  },
+  {
+    "name": "Potash Markets - State St",
+    "address": "875 North State Street, Chicago",
+    "latitude": 41.8987123,
+    "longitude": -87.6280792
+  },
+  {
+    "name": "South Loop Market - Michigan Ave",
+    "address": "1720 South Michigan Avenue, Chicago",
+    "latitude": 41.8584799,
+    "longitude": -87.6241136
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "255 East Grand Avenue, Chicago",
+    "latitude": 41.8911648,
+    "longitude": -87.620426
+  },
+  {
+    "name": "Bockwinkel's",
+    "address": "320 East Ohio Street, Chicago",
+    "latitude": 41.8927663,
+    "longitude": -87.6194187
+  },
+  {
+    "name": "South Loop Market - 9th Street",
+    "address": "8 East 9th Street, Chicago",
+    "latitude": 41.8708216,
+    "longitude": -87.6270708
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "1224 South Wabash Avenue, Chicago",
+    "latitude": 41.866463,
+    "longitude": -87.6262491
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "1 North Halsted Street, Chicago",
+    "latitude": 41.8821688,
+    "longitude": -87.6469767
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "1340 South Canal Street, Chicago",
+    "latitude": 41.8641785,
+    "longitude": -87.6399149
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "102 West Division Street, Chicago",
+    "latitude": 41.904091,
+    "longitude": -87.6317686
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "424 West Division Street, Chicago",
+    "latitude": 41.9048762,
+    "longitude": -87.63966119999999
+  },
+  {
+    "name": "South Loop Market - Cermak",
+    "address": "2135 South Michigan Avenue, Chicago",
+    "latitude": 41.8531859,
+    "longitude": -87.62359819999999
+  },
+  {
+    "name": "Best Choice Oriental Grocery",
+    "address": "2403 South Wentworth Avenue, Chicago",
+    "latitude": 41.8489913,
+    "longitude": -87.6317918
+  },
+  {
+    "name": "Potash Markets - Clark Street",
+    "address": "1525 North Clark Street, Chicago",
+    "latitude": 41.9104251,
+    "longitude": -87.6314647
+  },
+  {
+    "name": "South Loop Marketplace",
+    "address": "1254 South Canal Street, Chicago",
+    "latitude": 41.865654,
+    "longitude": -87.6403247
+  },
+  {
+    "name": "Target Grocery",
+    "address": "1 South State Street, Chicago",
+    "latitude": 41.8817753,
+    "longitude": -87.62741899999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "401 East Illinois Street, Chicago",
+    "latitude": 41.8907947,
+    "longitude": -87.61728529999999
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "3 West Chicago Avenue, Chicago",
+    "latitude": 41.8965025,
+    "longitude": -87.62864789999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "1154 South Clark Street, Chicago",
+    "latitude": 41.8682545,
+    "longitude": -87.6310987
+  },
+  {
+    "name": "ALDI",
+    "address": "201 West Division Street, Chicago",
+    "latitude": 41.90360949999999,
+    "longitude": -87.6347542
+  },
+  {
+    "name": "L'afrique Market",
+    "address": "2001 South State Street, Chicago",
+    "latitude": 41.85512969999999,
+    "longitude": -87.6267532
+  },
+  {
+    "name": "Target Grocery",
+    "address": "1101 West Jackson Boulevard, Chicago",
+    "latitude": 41.8770351,
+    "longitude": -87.6554927
+  },
+  {
+    "name": "Park To Shop Supermarket",
+    "address": "1835 South Canal Street, Chicago",
+    "latitude": 41.8565692,
+    "longitude": -87.63840479999999
+  },
+  {
+    "name": "Stop & Shop Grocery Store",
+    "address": "333 West North Avenue, Chicago",
+    "latitude": 41.910747,
+    "longitude": -87.63832239999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "1200 North Larrabee Street, Chicago",
+    "latitude": 41.90435009999999,
+    "longitude": -87.644284
+  },
+  {
+    "name": "Tai Wah Grocery Store",
+    "address": "2226 South Wentworth Avenue, Chicago",
+    "latitude": 41.852064,
+    "longitude": -87.632227
+  },
+  {
+    "name": "88 Marketplace",
+    "address": "2105 South Jefferson Street Floor 2, Chicago",
+    "latitude": 41.85391850000001,
+    "longitude": -87.64159219999999
+  },
+  {
+    "name": "Rong Shing Hong",
+    "address": "2347 South Wentworth Avenue, Chicago",
+    "latitude": 41.8496798,
+    "longitude": -87.6317251
+  },
+  {
+    "name": "Silver State City Food Co",
+    "address": "2420 South Wentworth Avenue, Chicago",
+    "latitude": 41.84845219999999,
+    "longitude": -87.6320832
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "1101 South Canal Street Suite 107, Chicago",
+    "latitude": 41.86862259999999,
+    "longitude": -87.6385339
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "44 East Ontario Street, Chicago",
+    "latitude": 41.893436,
+    "longitude": -87.6262507
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "1147 South Wabash Avenue, Chicago",
+    "latitude": 41.8677418,
+    "longitude": -87.6253941
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "550 North State Street, Chicago",
+    "latitude": 41.89228949999999,
+    "longitude": -87.62858399999999
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "370 North Desplaines Street, Chicago",
+    "latitude": 41.8887205,
+    "longitude": -87.6449859
+  },
+  {
+    "name": "South Loop Market - Van Buren",
+    "address": "235 West Van Buren Street #2219, Chicago",
+    "latitude": 41.8765826,
+    "longitude": -87.6349331
+  },
+  {
+    "name": "Bockwinkel's",
+    "address": "222 North Columbus Drive, Chicago",
+    "latitude": 41.88668119999999,
+    "longitude": -87.62213919999999
+  },
+  {
+    "name": "Potash Markets - State St",
+    "address": "875 North State Street, Chicago",
+    "latitude": 41.8987123,
+    "longitude": -87.6280792
+  },
+  {
+    "name": "South Loop Market - Michigan Ave",
+    "address": "1720 South Michigan Avenue, Chicago",
+    "latitude": 41.8584799,
+    "longitude": -87.6241136
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "255 East Grand Avenue, Chicago",
+    "latitude": 41.8911648,
+    "longitude": -87.620426
+  },
+  {
+    "name": "Bockwinkel's",
+    "address": "320 East Ohio Street, Chicago",
+    "latitude": 41.8927663,
+    "longitude": -87.6194187
+  },
+  {
+    "name": "South Loop Market - 9th Street",
+    "address": "8 East 9th Street, Chicago",
+    "latitude": 41.8708216,
+    "longitude": -87.6270708
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "1224 South Wabash Avenue, Chicago",
+    "latitude": 41.866463,
+    "longitude": -87.6262491
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "1 North Halsted Street, Chicago",
+    "latitude": 41.8821688,
+    "longitude": -87.6469767
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "1340 South Canal Street, Chicago",
+    "latitude": 41.8641785,
+    "longitude": -87.6399149
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "102 West Division Street, Chicago",
+    "latitude": 41.904091,
+    "longitude": -87.6317686
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "424 West Division Street, Chicago",
+    "latitude": 41.9048762,
+    "longitude": -87.63966119999999
+  },
+  {
+    "name": "South Loop Market - Cermak",
+    "address": "2135 South Michigan Avenue, Chicago",
+    "latitude": 41.8531859,
+    "longitude": -87.62359819999999
+  },
+  {
+    "name": "Best Choice Oriental Grocery",
+    "address": "2403 South Wentworth Avenue, Chicago",
+    "latitude": 41.8489913,
+    "longitude": -87.6317918
+  },
+  {
+    "name": "Potash Markets - Clark Street",
+    "address": "1525 North Clark Street, Chicago",
+    "latitude": 41.9104251,
+    "longitude": -87.6314647
+  },
+  {
+    "name": "South Loop Marketplace",
+    "address": "1254 South Canal Street, Chicago",
+    "latitude": 41.865654,
+    "longitude": -87.6403247
+  },
+  {
+    "name": "Target Grocery",
+    "address": "1 South State Street, Chicago",
+    "latitude": 41.8817753,
+    "longitude": -87.62741899999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "401 East Illinois Street, Chicago",
+    "latitude": 41.8907947,
+    "longitude": -87.61728529999999
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "3 West Chicago Avenue, Chicago",
+    "latitude": 41.8965025,
+    "longitude": -87.62864789999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "1154 South Clark Street, Chicago",
+    "latitude": 41.8682545,
+    "longitude": -87.6310987
+  },
+  {
+    "name": "ALDI",
+    "address": "201 West Division Street, Chicago",
+    "latitude": 41.90360949999999,
+    "longitude": -87.6347542
+  },
+  {
+    "name": "L'afrique Market",
+    "address": "2001 South State Street, Chicago",
+    "latitude": 41.85512969999999,
+    "longitude": -87.6267532
+  },
+  {
+    "name": "Target Grocery",
+    "address": "1101 West Jackson Boulevard, Chicago",
+    "latitude": 41.8770351,
+    "longitude": -87.6554927
+  },
+  {
+    "name": "Park To Shop Supermarket",
+    "address": "1835 South Canal Street, Chicago",
+    "latitude": 41.8565692,
+    "longitude": -87.63840479999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "1200 North Larrabee Street, Chicago",
+    "latitude": 41.90435009999999,
+    "longitude": -87.644284
+  },
+  {
+    "name": "Stop & Shop Grocery Store",
+    "address": "333 West North Avenue, Chicago",
+    "latitude": 41.910747,
+    "longitude": -87.63832239999999
+  },
+  {
+    "name": "Tai Wah Grocery Store",
+    "address": "2226 South Wentworth Avenue, Chicago",
+    "latitude": 41.852064,
+    "longitude": -87.632227
+  },
+  {
+    "name": "88 Marketplace",
+    "address": "2105 South Jefferson Street Floor 2, Chicago",
+    "latitude": 41.85391850000001,
+    "longitude": -87.64159219999999
+  },
+  {
+    "name": "Rong Shing Hong",
+    "address": "2347 South Wentworth Avenue, Chicago",
+    "latitude": 41.8496798,
+    "longitude": -87.6317251
+  },
+  {
+    "name": "Silver State City Food Co",
+    "address": "2420 South Wentworth Avenue, Chicago",
+    "latitude": 41.84845219999999,
+    "longitude": -87.6320832
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "1101 South Canal Street Suite 107, Chicago",
+    "latitude": 41.86862259999999,
+    "longitude": -87.6385339
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "44 East Ontario Street, Chicago",
+    "latitude": 41.893436,
+    "longitude": -87.6262507
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "1147 South Wabash Avenue, Chicago",
+    "latitude": 41.8677418,
+    "longitude": -87.6253941
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "550 North State Street, Chicago",
+    "latitude": 41.89228949999999,
+    "longitude": -87.62858399999999
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "370 North Desplaines Street, Chicago",
+    "latitude": 41.8887205,
+    "longitude": -87.6449859
+  },
+  {
+    "name": "South Loop Market - Van Buren",
+    "address": "235 West Van Buren Street #2219, Chicago",
+    "latitude": 41.8765826,
+    "longitude": -87.6349331
+  },
+  {
+    "name": "Bockwinkel's",
+    "address": "222 North Columbus Drive, Chicago",
+    "latitude": 41.88668119999999,
+    "longitude": -87.62213919999999
+  },
+  {
+    "name": "Potash Markets - State St",
+    "address": "875 North State Street, Chicago",
+    "latitude": 41.8987123,
+    "longitude": -87.6280792
+  },
+  {
+    "name": "South Loop Market - Michigan Ave",
+    "address": "1720 South Michigan Avenue, Chicago",
+    "latitude": 41.8584799,
+    "longitude": -87.6241136
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "255 East Grand Avenue, Chicago",
+    "latitude": 41.8911648,
+    "longitude": -87.620426
+  },
+  {
+    "name": "Bockwinkel's",
+    "address": "320 East Ohio Street, Chicago",
+    "latitude": 41.8927663,
+    "longitude": -87.6194187
+  },
+  {
+    "name": "South Loop Market - 9th Street",
+    "address": "8 East 9th Street, Chicago",
+    "latitude": 41.8708216,
+    "longitude": -87.6270708
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "1224 South Wabash Avenue, Chicago",
+    "latitude": 41.866463,
+    "longitude": -87.6262491
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "1 North Halsted Street, Chicago",
+    "latitude": 41.8821688,
+    "longitude": -87.6469767
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "1340 South Canal Street, Chicago",
+    "latitude": 41.8641785,
+    "longitude": -87.6399149
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "102 West Division Street, Chicago",
+    "latitude": 41.904091,
+    "longitude": -87.6317686
+  },
+  {
+    "name": "South Loop Market - Cermak",
+    "address": "2135 South Michigan Avenue, Chicago",
+    "latitude": 41.8531859,
+    "longitude": -87.62359819999999
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "424 West Division Street, Chicago",
+    "latitude": 41.9048762,
+    "longitude": -87.63966119999999
+  },
+  {
+    "name": "Best Choice Oriental Grocery",
+    "address": "2403 South Wentworth Avenue, Chicago",
+    "latitude": 41.8489913,
+    "longitude": -87.6317918
+  },
+  {
+    "name": "Potash Markets - Clark Street",
+    "address": "1525 North Clark Street, Chicago",
+    "latitude": 41.9104251,
+    "longitude": -87.6314647
+  },
+  {
+    "name": "South Loop Marketplace",
+    "address": "1254 South Canal Street, Chicago",
+    "latitude": 41.865654,
+    "longitude": -87.6403247
+  },
+  {
+    "name": "Target Grocery",
+    "address": "1 South State Street, Chicago",
+    "latitude": 41.8817753,
+    "longitude": -87.62741899999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "401 East Illinois Street, Chicago",
+    "latitude": 41.8907947,
+    "longitude": -87.61728529999999
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "3 West Chicago Avenue, Chicago",
+    "latitude": 41.8965025,
+    "longitude": -87.62864789999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "1154 South Clark Street, Chicago",
+    "latitude": 41.8682545,
+    "longitude": -87.6310987
+  },
+  {
+    "name": "ALDI",
+    "address": "201 West Division Street, Chicago",
+    "latitude": 41.90360949999999,
+    "longitude": -87.6347542
+  },
+  {
+    "name": "L'afrique Market",
+    "address": "2001 South State Street, Chicago",
+    "latitude": 41.85512969999999,
+    "longitude": -87.6267532
+  },
+  {
+    "name": "Target Grocery",
+    "address": "1101 West Jackson Boulevard, Chicago",
+    "latitude": 41.8770351,
+    "longitude": -87.6554927
+  },
+  {
+    "name": "Park To Shop Supermarket",
+    "address": "1835 South Canal Street, Chicago",
+    "latitude": 41.8565692,
+    "longitude": -87.63840479999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "1200 North Larrabee Street, Chicago",
+    "latitude": 41.90435009999999,
+    "longitude": -87.644284
+  },
+  {
+    "name": "Stop & Shop Grocery Store",
+    "address": "333 West North Avenue, Chicago",
+    "latitude": 41.910747,
+    "longitude": -87.63832239999999
+  },
+  {
+    "name": "Tai Wah Grocery Store",
+    "address": "2226 South Wentworth Avenue, Chicago",
+    "latitude": 41.852064,
+    "longitude": -87.632227
+  },
+  {
+    "name": "88 Marketplace",
+    "address": "2105 South Jefferson Street Floor 2, Chicago",
+    "latitude": 41.85391850000001,
+    "longitude": -87.64159219999999
+  },
+  {
+    "name": "Rong Shing Hong",
+    "address": "2347 South Wentworth Avenue, Chicago",
+    "latitude": 41.8496798,
+    "longitude": -87.6317251
+  },
+  {
+    "name": "Silver State City Food Co",
+    "address": "2420 South Wentworth Avenue, Chicago",
+    "latitude": 41.84845219999999,
+    "longitude": -87.6320832
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "44 East Ontario Street, Chicago",
+    "latitude": 41.893436,
+    "longitude": -87.6262507
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "1840 North Clybourn Avenue, Chicago",
+    "latitude": 41.9144861,
+    "longitude": -87.6549833
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "550 North State Street, Chicago",
+    "latitude": 41.89228949999999,
+    "longitude": -87.62858399999999
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "667 West Diversey Parkway, Chicago",
+    "latitude": 41.9324176,
+    "longitude": -87.6462646
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "1550 North Kingsbury Street, Chicago",
+    "latitude": 41.9086787,
+    "longitude": -87.65264119999999
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "3531 North Broadway, Chicago",
+    "latitude": 41.94680810000001,
+    "longitude": -87.646152
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "370 North Desplaines Street, Chicago",
+    "latitude": 41.8887205,
+    "longitude": -87.6449859
+  },
+  {
+    "name": "Potash Markets - State St",
+    "address": "875 North State Street, Chicago",
+    "latitude": 41.8987123,
+    "longitude": -87.6280792
+  },
+  {
+    "name": "Big Apple Finer Foods",
+    "address": "2345 North Clark Street, Chicago",
+    "latitude": 41.9249488,
+    "longitude": -87.6399364
+  },
+  {
+    "name": "Bockwinkel's",
+    "address": "222 North Columbus Drive, Chicago",
+    "latitude": 41.88668119999999,
+    "longitude": -87.62213919999999
+  },
+  {
+    "name": "Carnival Foods",
+    "address": "458 West Dickens Avenue, Chicago",
+    "latitude": 41.92021510000001,
+    "longitude": -87.64079290000001
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "102 West Division Street, Chicago",
+    "latitude": 41.904091,
+    "longitude": -87.6317686
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "424 West Division Street, Chicago",
+    "latitude": 41.9048762,
+    "longitude": -87.63966119999999
+  },
+  {
+    "name": "ALDI",
+    "address": "1836 North Clybourn Avenue, Chicago",
+    "latitude": 41.9145652,
+    "longitude": -87.6551582
+  },
+  {
+    "name": "Bockwinkel's",
+    "address": "320 East Ohio Street, Chicago",
+    "latitude": 41.8927663,
+    "longitude": -87.6194187
+  },
+  {
+    "name": "Belmont Harbor Market",
+    "address": "3170 North Sheridan Road, Chicago",
+    "latitude": 41.9400079,
+    "longitude": -87.63971769999999
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "255 East Grand Avenue, Chicago",
+    "latitude": 41.8911648,
+    "longitude": -87.620426
+  },
+  {
+    "name": "Potash Markets - Clark Street",
+    "address": "1525 North Clark Street, Chicago",
+    "latitude": 41.9104251,
+    "longitude": -87.6314647
+  },
+  {
+    "name": "Stop & Shop Grocery Store",
+    "address": "333 West North Avenue, Chicago",
+    "latitude": 41.910747,
+    "longitude": -87.63832239999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "555 West Webster Avenue, Chicago",
+    "latitude": 41.9216626,
+    "longitude": -87.64262839999999
+  },
+  {
+    "name": "ALDI",
+    "address": "201 West Division Street, Chicago",
+    "latitude": 41.90360949999999,
+    "longitude": -87.6347542
+  },
+  {
+    "name": "Target Grocery",
+    "address": "1200 North Larrabee Street, Chicago",
+    "latitude": 41.90435009999999,
+    "longitude": -87.644284
+  },
+  {
+    "name": "Target Grocery",
+    "address": "2650 North Clark Street, Chicago",
+    "latitude": 41.931176,
+    "longitude": -87.6446034
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "3 West Chicago Avenue, Chicago",
+    "latitude": 41.8965025,
+    "longitude": -87.62864789999999
+  },
+  {
+    "name": "Wild Fork",
+    "address": "1001 West North Avenue, Chicago",
+    "latitude": 41.91051599999999,
+    "longitude": -87.65362689999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "401 East Illinois Street, Chicago",
+    "latitude": 41.8907947,
+    "longitude": -87.61728529999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "3204 North Clark Street, Chicago",
+    "latitude": 41.9402515,
+    "longitude": -87.6513923
+  },
+  {
+    "name": "Fresh Stop Produce and Market",
+    "address": "930 West Belmont Avenue, Chicago",
+    "latitude": 41.9400528,
+    "longitude": -87.652709
+  },
+  {
+    "name": "Fresh Stop Deli",
+    "address": "930 West Belmont Avenue, Chicago",
+    "latitude": 41.940189,
+    "longitude": -87.6527138
+  },
+  {
+    "name": "Carnicerias Guanajuato",
+    "address": "1436 North Ashland Avenue, Chicago",
+    "latitude": 41.9081507,
+    "longitude": -87.6679754
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "44 East Ontario Street, Chicago",
+    "latitude": 41.893436,
+    "longitude": -87.6262507
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "1840 North Clybourn Avenue, Chicago",
+    "latitude": 41.9144861,
+    "longitude": -87.6549833
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "550 North State Street, Chicago",
+    "latitude": 41.89228949999999,
+    "longitude": -87.62858399999999
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "667 West Diversey Parkway, Chicago",
+    "latitude": 41.9324176,
+    "longitude": -87.6462646
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "1550 North Kingsbury Street, Chicago",
+    "latitude": 41.9086787,
+    "longitude": -87.65264119999999
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "3531 North Broadway, Chicago",
+    "latitude": 41.94680810000001,
+    "longitude": -87.646152
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "370 North Desplaines Street, Chicago",
+    "latitude": 41.8887205,
+    "longitude": -87.6449859
+  },
+  {
+    "name": "Potash Markets - State St",
+    "address": "875 North State Street, Chicago",
+    "latitude": 41.8987123,
+    "longitude": -87.6280792
+  },
+  {
+    "name": "Big Apple Finer Foods",
+    "address": "2345 North Clark Street, Chicago",
+    "latitude": 41.9249488,
+    "longitude": -87.6399364
+  },
+  {
+    "name": "Bockwinkel's",
+    "address": "222 North Columbus Drive, Chicago",
+    "latitude": 41.88668119999999,
+    "longitude": -87.62213919999999
+  },
+  {
+    "name": "Carnival Foods",
+    "address": "458 West Dickens Avenue, Chicago",
+    "latitude": 41.92021510000001,
+    "longitude": -87.64079290000001
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "102 West Division Street, Chicago",
+    "latitude": 41.904091,
+    "longitude": -87.6317686
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "424 West Division Street, Chicago",
+    "latitude": 41.9048762,
+    "longitude": -87.63966119999999
+  },
+  {
+    "name": "ALDI",
+    "address": "1836 North Clybourn Avenue, Chicago",
+    "latitude": 41.9145652,
+    "longitude": -87.6551582
+  },
+  {
+    "name": "Bockwinkel's",
+    "address": "320 East Ohio Street, Chicago",
+    "latitude": 41.8927663,
+    "longitude": -87.6194187
+  },
+  {
+    "name": "Belmont Harbor Market",
+    "address": "3170 North Sheridan Road, Chicago",
+    "latitude": 41.9400079,
+    "longitude": -87.63971769999999
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "255 East Grand Avenue, Chicago",
+    "latitude": 41.8911648,
+    "longitude": -87.620426
+  },
+  {
+    "name": "Potash Markets - Clark Street",
+    "address": "1525 North Clark Street, Chicago",
+    "latitude": 41.9104251,
+    "longitude": -87.6314647
+  },
+  {
+    "name": "Stop & Shop Grocery Store",
+    "address": "333 West North Avenue, Chicago",
+    "latitude": 41.910747,
+    "longitude": -87.63832239999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "555 West Webster Avenue, Chicago",
+    "latitude": 41.9216626,
+    "longitude": -87.64262839999999
+  },
+  {
+    "name": "ALDI",
+    "address": "201 West Division Street, Chicago",
+    "latitude": 41.90360949999999,
+    "longitude": -87.6347542
+  },
+  {
+    "name": "Target Grocery",
+    "address": "1200 North Larrabee Street, Chicago",
+    "latitude": 41.90435009999999,
+    "longitude": -87.644284
+  },
+  {
+    "name": "Target Grocery",
+    "address": "2650 North Clark Street, Chicago",
+    "latitude": 41.931176,
+    "longitude": -87.6446034
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "3 West Chicago Avenue, Chicago",
+    "latitude": 41.8965025,
+    "longitude": -87.62864789999999
+  },
+  {
+    "name": "Wild Fork",
+    "address": "1001 West North Avenue, Chicago",
+    "latitude": 41.91051599999999,
+    "longitude": -87.65362689999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "401 East Illinois Street, Chicago",
+    "latitude": 41.8907947,
+    "longitude": -87.61728529999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "3204 North Clark Street, Chicago",
+    "latitude": 41.9402515,
+    "longitude": -87.6513923
+  },
+  {
+    "name": "Fresh Stop Produce and Market",
+    "address": "930 West Belmont Avenue, Chicago",
+    "latitude": 41.9400528,
+    "longitude": -87.652709
+  },
+  {
+    "name": "Fresh Stop Deli",
+    "address": "930 West Belmont Avenue, Chicago",
+    "latitude": 41.940189,
+    "longitude": -87.6527138
+  },
+  {
+    "name": "Carnicerias Guanajuato",
+    "address": "1436 North Ashland Avenue, Chicago",
+    "latitude": 41.9081507,
+    "longitude": -87.6679754
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "44 East Ontario Street, Chicago",
+    "latitude": 41.893436,
+    "longitude": -87.6262507
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "550 North State Street, Chicago",
+    "latitude": 41.89228949999999,
+    "longitude": -87.62858399999999
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "1840 North Clybourn Avenue, Chicago",
+    "latitude": 41.9144861,
+    "longitude": -87.6549833
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "667 West Diversey Parkway, Chicago",
+    "latitude": 41.9324176,
+    "longitude": -87.6462646
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "1550 North Kingsbury Street, Chicago",
+    "latitude": 41.9086787,
+    "longitude": -87.65264119999999
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "3531 North Broadway, Chicago",
+    "latitude": 41.94680810000001,
+    "longitude": -87.646152
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "370 North Desplaines Street, Chicago",
+    "latitude": 41.8887205,
+    "longitude": -87.6449859
+  },
+  {
+    "name": "Potash Markets - State St",
+    "address": "875 North State Street, Chicago",
+    "latitude": 41.8987123,
+    "longitude": -87.6280792
+  },
+  {
+    "name": "Big Apple Finer Foods",
+    "address": "2345 North Clark Street, Chicago",
+    "latitude": 41.9249488,
+    "longitude": -87.6399364
+  },
+  {
+    "name": "Bockwinkel's",
+    "address": "222 North Columbus Drive, Chicago",
+    "latitude": 41.88668119999999,
+    "longitude": -87.62213919999999
+  },
+  {
+    "name": "Carnival Foods",
+    "address": "458 West Dickens Avenue, Chicago",
+    "latitude": 41.92021510000001,
+    "longitude": -87.64079290000001
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "102 West Division Street, Chicago",
+    "latitude": 41.904091,
+    "longitude": -87.6317686
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "424 West Division Street, Chicago",
+    "latitude": 41.9048762,
+    "longitude": -87.63966119999999
+  },
+  {
+    "name": "Bockwinkel's",
+    "address": "320 East Ohio Street, Chicago",
+    "latitude": 41.8927663,
+    "longitude": -87.6194187
+  },
+  {
+    "name": "ALDI",
+    "address": "1836 North Clybourn Avenue, Chicago",
+    "latitude": 41.9145652,
+    "longitude": -87.6551582
+  },
+  {
+    "name": "Belmont Harbor Market",
+    "address": "3170 North Sheridan Road, Chicago",
+    "latitude": 41.9400079,
+    "longitude": -87.63971769999999
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "255 East Grand Avenue, Chicago",
+    "latitude": 41.8911648,
+    "longitude": -87.620426
+  },
+  {
+    "name": "Potash Markets - Clark Street",
+    "address": "1525 North Clark Street, Chicago",
+    "latitude": 41.9104251,
+    "longitude": -87.6314647
+  },
+  {
+    "name": "Stop & Shop Grocery Store",
+    "address": "333 West North Avenue, Chicago",
+    "latitude": 41.910747,
+    "longitude": -87.63832239999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "555 West Webster Avenue, Chicago",
+    "latitude": 41.9216626,
+    "longitude": -87.64262839999999
+  },
+  {
+    "name": "ALDI",
+    "address": "201 West Division Street, Chicago",
+    "latitude": 41.90360949999999,
+    "longitude": -87.6347542
+  },
+  {
+    "name": "Target Grocery",
+    "address": "1200 North Larrabee Street, Chicago",
+    "latitude": 41.90435009999999,
+    "longitude": -87.644284
+  },
+  {
+    "name": "Target Grocery",
+    "address": "2650 North Clark Street, Chicago",
+    "latitude": 41.931176,
+    "longitude": -87.6446034
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "3 West Chicago Avenue, Chicago",
+    "latitude": 41.8965025,
+    "longitude": -87.62864789999999
+  },
+  {
+    "name": "Wild Fork",
+    "address": "1001 West North Avenue, Chicago",
+    "latitude": 41.91051599999999,
+    "longitude": -87.65362689999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "401 East Illinois Street, Chicago",
+    "latitude": 41.8907947,
+    "longitude": -87.61728529999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "3204 North Clark Street, Chicago",
+    "latitude": 41.9402515,
+    "longitude": -87.6513923
+  },
+  {
+    "name": "Fresh Stop Produce and Market",
+    "address": "930 West Belmont Avenue, Chicago",
+    "latitude": 41.9400528,
+    "longitude": -87.652709
+  },
+  {
+    "name": "Fresh Stop Deli",
+    "address": "930 West Belmont Avenue, Chicago",
+    "latitude": 41.940189,
+    "longitude": -87.6527138
+  },
+  {
+    "name": "Carnicerias Guanajuato",
+    "address": "1436 North Ashland Avenue, Chicago",
+    "latitude": 41.9081507,
+    "longitude": -87.6679754
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "44 East Ontario Street, Chicago",
+    "latitude": 41.893436,
+    "longitude": -87.6262507
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "550 North State Street, Chicago",
+    "latitude": 41.89228949999999,
+    "longitude": -87.62858399999999
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "1840 North Clybourn Avenue, Chicago",
+    "latitude": 41.9144861,
+    "longitude": -87.6549833
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "667 West Diversey Parkway, Chicago",
+    "latitude": 41.9324176,
+    "longitude": -87.6462646
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "1550 North Kingsbury Street, Chicago",
+    "latitude": 41.9086787,
+    "longitude": -87.65264119999999
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "3531 North Broadway, Chicago",
+    "latitude": 41.94680810000001,
+    "longitude": -87.646152
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "370 North Desplaines Street, Chicago",
+    "latitude": 41.8887205,
+    "longitude": -87.6449859
+  },
+  {
+    "name": "Potash Markets - State St",
+    "address": "875 North State Street, Chicago",
+    "latitude": 41.8987123,
+    "longitude": -87.6280792
+  },
+  {
+    "name": "Big Apple Finer Foods",
+    "address": "2345 North Clark Street, Chicago",
+    "latitude": 41.9249488,
+    "longitude": -87.6399364
+  },
+  {
+    "name": "Bockwinkel's",
+    "address": "222 North Columbus Drive, Chicago",
+    "latitude": 41.88668119999999,
+    "longitude": -87.62213919999999
+  },
+  {
+    "name": "Carnival Foods",
+    "address": "458 West Dickens Avenue, Chicago",
+    "latitude": 41.92021510000001,
+    "longitude": -87.64079290000001
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "102 West Division Street, Chicago",
+    "latitude": 41.904091,
+    "longitude": -87.6317686
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "424 West Division Street, Chicago",
+    "latitude": 41.9048762,
+    "longitude": -87.63966119999999
+  },
+  {
+    "name": "Bockwinkel's",
+    "address": "320 East Ohio Street, Chicago",
+    "latitude": 41.8927663,
+    "longitude": -87.6194187
+  },
+  {
+    "name": "ALDI",
+    "address": "1836 North Clybourn Avenue, Chicago",
+    "latitude": 41.9145652,
+    "longitude": -87.6551582
+  },
+  {
+    "name": "Belmont Harbor Market",
+    "address": "3170 North Sheridan Road, Chicago",
+    "latitude": 41.9400079,
+    "longitude": -87.63971769999999
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "255 East Grand Avenue, Chicago",
+    "latitude": 41.8911648,
+    "longitude": -87.620426
+  },
+  {
+    "name": "Potash Markets - Clark Street",
+    "address": "1525 North Clark Street, Chicago",
+    "latitude": 41.9104251,
+    "longitude": -87.6314647
+  },
+  {
+    "name": "Stop & Shop Grocery Store",
+    "address": "333 West North Avenue, Chicago",
+    "latitude": 41.910747,
+    "longitude": -87.63832239999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "555 West Webster Avenue, Chicago",
+    "latitude": 41.9216626,
+    "longitude": -87.64262839999999
+  },
+  {
+    "name": "ALDI",
+    "address": "201 West Division Street, Chicago",
+    "latitude": 41.90360949999999,
+    "longitude": -87.6347542
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "3 West Chicago Avenue, Chicago",
+    "latitude": 41.8965025,
+    "longitude": -87.62864789999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "1200 North Larrabee Street, Chicago",
+    "latitude": 41.90435009999999,
+    "longitude": -87.644284
+  },
+  {
+    "name": "Target Grocery",
+    "address": "2650 North Clark Street, Chicago",
+    "latitude": 41.931176,
+    "longitude": -87.6446034
+  },
+  {
+    "name": "Wild Fork",
+    "address": "1001 West North Avenue, Chicago",
+    "latitude": 41.91051599999999,
+    "longitude": -87.65362689999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "401 East Illinois Street, Chicago",
+    "latitude": 41.8907947,
+    "longitude": -87.61728529999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "3204 North Clark Street, Chicago",
+    "latitude": 41.9402515,
+    "longitude": -87.6513923
+  },
+  {
+    "name": "Fresh Stop Produce and Market",
+    "address": "930 West Belmont Avenue, Chicago",
+    "latitude": 41.9400528,
+    "longitude": -87.652709
+  },
+  {
+    "name": "Fresh Stop Deli",
+    "address": "930 West Belmont Avenue, Chicago",
+    "latitude": 41.940189,
+    "longitude": -87.6527138
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "44 East Ontario Street, Chicago",
+    "latitude": 41.893436,
+    "longitude": -87.6262507
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "550 North State Street, Chicago",
+    "latitude": 41.89228949999999,
+    "longitude": -87.62858399999999
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "1840 North Clybourn Avenue, Chicago",
+    "latitude": 41.9144861,
+    "longitude": -87.6549833
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "667 West Diversey Parkway, Chicago",
+    "latitude": 41.9324176,
+    "longitude": -87.6462646
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "1550 North Kingsbury Street, Chicago",
+    "latitude": 41.9086787,
+    "longitude": -87.65264119999999
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "3531 North Broadway, Chicago",
+    "latitude": 41.94680810000001,
+    "longitude": -87.646152
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "370 North Desplaines Street, Chicago",
+    "latitude": 41.8887205,
+    "longitude": -87.6449859
+  },
+  {
+    "name": "Potash Markets - State St",
+    "address": "875 North State Street, Chicago",
+    "latitude": 41.8987123,
+    "longitude": -87.6280792
+  },
+  {
+    "name": "Big Apple Finer Foods",
+    "address": "2345 North Clark Street, Chicago",
+    "latitude": 41.9249488,
+    "longitude": -87.6399364
+  },
+  {
+    "name": "Bockwinkel's",
+    "address": "222 North Columbus Drive, Chicago",
+    "latitude": 41.88668119999999,
+    "longitude": -87.62213919999999
+  },
+  {
+    "name": "Carnival Foods",
+    "address": "458 West Dickens Avenue, Chicago",
+    "latitude": 41.92021510000001,
+    "longitude": -87.64079290000001
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "102 West Division Street, Chicago",
+    "latitude": 41.904091,
+    "longitude": -87.6317686
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "424 West Division Street, Chicago",
+    "latitude": 41.9048762,
+    "longitude": -87.63966119999999
+  },
+  {
+    "name": "Bockwinkel's",
+    "address": "320 East Ohio Street, Chicago",
+    "latitude": 41.8927663,
+    "longitude": -87.6194187
+  },
+  {
+    "name": "ALDI",
+    "address": "1836 North Clybourn Avenue, Chicago",
+    "latitude": 41.9145652,
+    "longitude": -87.6551582
+  },
+  {
+    "name": "Belmont Harbor Market",
+    "address": "3170 North Sheridan Road, Chicago",
+    "latitude": 41.9400079,
+    "longitude": -87.63971769999999
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "255 East Grand Avenue, Chicago",
+    "latitude": 41.8911648,
+    "longitude": -87.620426
+  },
+  {
+    "name": "Potash Markets - Clark Street",
+    "address": "1525 North Clark Street, Chicago",
+    "latitude": 41.9104251,
+    "longitude": -87.6314647
+  },
+  {
+    "name": "Stop & Shop Grocery Store",
+    "address": "333 West North Avenue, Chicago",
+    "latitude": 41.910747,
+    "longitude": -87.63832239999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "555 West Webster Avenue, Chicago",
+    "latitude": 41.9216626,
+    "longitude": -87.64262839999999
+  },
+  {
+    "name": "ALDI",
+    "address": "201 West Division Street, Chicago",
+    "latitude": 41.90360949999999,
+    "longitude": -87.6347542
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "3 West Chicago Avenue, Chicago",
+    "latitude": 41.8965025,
+    "longitude": -87.62864789999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "1200 North Larrabee Street, Chicago",
+    "latitude": 41.90435009999999,
+    "longitude": -87.644284
+  },
+  {
+    "name": "Target Grocery",
+    "address": "2650 North Clark Street, Chicago",
+    "latitude": 41.931176,
+    "longitude": -87.6446034
+  },
+  {
+    "name": "Wild Fork",
+    "address": "1001 West North Avenue, Chicago",
+    "latitude": 41.91051599999999,
+    "longitude": -87.65362689999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "401 East Illinois Street, Chicago",
+    "latitude": 41.8907947,
+    "longitude": -87.61728529999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "3204 North Clark Street, Chicago",
+    "latitude": 41.9402515,
+    "longitude": -87.6513923
+  },
+  {
+    "name": "Fresh Stop Produce and Market",
+    "address": "930 West Belmont Avenue, Chicago",
+    "latitude": 41.9400528,
+    "longitude": -87.652709
+  },
+  {
+    "name": "Fresh Stop Deli",
+    "address": "930 West Belmont Avenue, Chicago",
+    "latitude": 41.940189,
+    "longitude": -87.6527138
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "44 East Ontario Street, Chicago",
+    "latitude": 41.893436,
+    "longitude": -87.6262507
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "550 North State Street, Chicago",
+    "latitude": 41.89228949999999,
+    "longitude": -87.62858399999999
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "1840 North Clybourn Avenue, Chicago",
+    "latitude": 41.9144861,
+    "longitude": -87.6549833
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "667 West Diversey Parkway, Chicago",
+    "latitude": 41.9324176,
+    "longitude": -87.6462646
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "1550 North Kingsbury Street, Chicago",
+    "latitude": 41.9086787,
+    "longitude": -87.65264119999999
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "3531 North Broadway, Chicago",
+    "latitude": 41.94680810000001,
+    "longitude": -87.646152
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "370 North Desplaines Street, Chicago",
+    "latitude": 41.8887205,
+    "longitude": -87.6449859
+  },
+  {
+    "name": "Potash Markets - State St",
+    "address": "875 North State Street, Chicago",
+    "latitude": 41.8987123,
+    "longitude": -87.6280792
+  },
+  {
+    "name": "Big Apple Finer Foods",
+    "address": "2345 North Clark Street, Chicago",
+    "latitude": 41.9249488,
+    "longitude": -87.6399364
+  },
+  {
+    "name": "Bockwinkel's",
+    "address": "222 North Columbus Drive, Chicago",
+    "latitude": 41.88668119999999,
+    "longitude": -87.62213919999999
+  },
+  {
+    "name": "Carnival Foods",
+    "address": "458 West Dickens Avenue, Chicago",
+    "latitude": 41.92021510000001,
+    "longitude": -87.64079290000001
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "102 West Division Street, Chicago",
+    "latitude": 41.904091,
+    "longitude": -87.6317686
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "424 West Division Street, Chicago",
+    "latitude": 41.9048762,
+    "longitude": -87.63966119999999
+  },
+  {
+    "name": "Bockwinkel's",
+    "address": "320 East Ohio Street, Chicago",
+    "latitude": 41.8927663,
+    "longitude": -87.6194187
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "255 East Grand Avenue, Chicago",
+    "latitude": 41.8911648,
+    "longitude": -87.620426
+  },
+  {
+    "name": "Belmont Harbor Market",
+    "address": "3170 North Sheridan Road, Chicago",
+    "latitude": 41.9400079,
+    "longitude": -87.63971769999999
+  },
+  {
+    "name": "ALDI",
+    "address": "1836 North Clybourn Avenue, Chicago",
+    "latitude": 41.9145652,
+    "longitude": -87.6551582
+  },
+  {
+    "name": "Potash Markets - Clark Street",
+    "address": "1525 North Clark Street, Chicago",
+    "latitude": 41.9104251,
+    "longitude": -87.6314647
+  },
+  {
+    "name": "Stop & Shop Grocery Store",
+    "address": "333 West North Avenue, Chicago",
+    "latitude": 41.910747,
+    "longitude": -87.63832239999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "555 West Webster Avenue, Chicago",
+    "latitude": 41.9216626,
+    "longitude": -87.64262839999999
+  },
+  {
+    "name": "ALDI",
+    "address": "201 West Division Street, Chicago",
+    "latitude": 41.90360949999999,
+    "longitude": -87.6347542
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "3 West Chicago Avenue, Chicago",
+    "latitude": 41.8965025,
+    "longitude": -87.62864789999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "1200 North Larrabee Street, Chicago",
+    "latitude": 41.90435009999999,
+    "longitude": -87.644284
+  },
+  {
+    "name": "Target Grocery",
+    "address": "2650 North Clark Street, Chicago",
+    "latitude": 41.931176,
+    "longitude": -87.6446034
+  },
+  {
+    "name": "Wild Fork",
+    "address": "1001 West North Avenue, Chicago",
+    "latitude": 41.91051599999999,
+    "longitude": -87.65362689999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "401 East Illinois Street, Chicago",
+    "latitude": 41.8907947,
+    "longitude": -87.61728529999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "3204 North Clark Street, Chicago",
+    "latitude": 41.9402515,
+    "longitude": -87.6513923
+  },
+  {
+    "name": "Fresh Stop Produce and Market",
+    "address": "930 West Belmont Avenue, Chicago",
+    "latitude": 41.9400528,
+    "longitude": -87.652709
+  },
+  {
+    "name": "Fresh Stop Deli",
+    "address": "930 West Belmont Avenue, Chicago",
+    "latitude": 41.940189,
+    "longitude": -87.6527138
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "44 East Ontario Street, Chicago",
+    "latitude": 41.893436,
+    "longitude": -87.6262507
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "550 North State Street, Chicago",
+    "latitude": 41.89228949999999,
+    "longitude": -87.62858399999999
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "1840 North Clybourn Avenue, Chicago",
+    "latitude": 41.9144861,
+    "longitude": -87.6549833
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "667 West Diversey Parkway, Chicago",
+    "latitude": 41.9324176,
+    "longitude": -87.6462646
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "1550 North Kingsbury Street, Chicago",
+    "latitude": 41.9086787,
+    "longitude": -87.65264119999999
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "3531 North Broadway, Chicago",
+    "latitude": 41.94680810000001,
+    "longitude": -87.646152
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "370 North Desplaines Street, Chicago",
+    "latitude": 41.8887205,
+    "longitude": -87.6449859
+  },
+  {
+    "name": "Potash Markets - State St",
+    "address": "875 North State Street, Chicago",
+    "latitude": 41.8987123,
+    "longitude": -87.6280792
+  },
+  {
+    "name": "Big Apple Finer Foods",
+    "address": "2345 North Clark Street, Chicago",
+    "latitude": 41.9249488,
+    "longitude": -87.6399364
+  },
+  {
+    "name": "Bockwinkel's",
+    "address": "222 North Columbus Drive, Chicago",
+    "latitude": 41.88668119999999,
+    "longitude": -87.62213919999999
+  },
+  {
+    "name": "Carnival Foods",
+    "address": "458 West Dickens Avenue, Chicago",
+    "latitude": 41.92021510000001,
+    "longitude": -87.64079290000001
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "102 West Division Street, Chicago",
+    "latitude": 41.904091,
+    "longitude": -87.6317686
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "424 West Division Street, Chicago",
+    "latitude": 41.9048762,
+    "longitude": -87.63966119999999
+  },
+  {
+    "name": "Bockwinkel's",
+    "address": "320 East Ohio Street, Chicago",
+    "latitude": 41.8927663,
+    "longitude": -87.6194187
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "255 East Grand Avenue, Chicago",
+    "latitude": 41.8911648,
+    "longitude": -87.620426
+  },
+  {
+    "name": "Belmont Harbor Market",
+    "address": "3170 North Sheridan Road, Chicago",
+    "latitude": 41.9400079,
+    "longitude": -87.63971769999999
+  },
+  {
+    "name": "ALDI",
+    "address": "1836 North Clybourn Avenue, Chicago",
+    "latitude": 41.9145652,
+    "longitude": -87.6551582
+  },
+  {
+    "name": "Potash Markets - Clark Street",
+    "address": "1525 North Clark Street, Chicago",
+    "latitude": 41.9104251,
+    "longitude": -87.6314647
+  },
+  {
+    "name": "Stop & Shop Grocery Store",
+    "address": "333 West North Avenue, Chicago",
+    "latitude": 41.910747,
+    "longitude": -87.63832239999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "555 West Webster Avenue, Chicago",
+    "latitude": 41.9216626,
+    "longitude": -87.64262839999999
+  },
+  {
+    "name": "ALDI",
+    "address": "201 West Division Street, Chicago",
+    "latitude": 41.90360949999999,
+    "longitude": -87.6347542
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "3 West Chicago Avenue, Chicago",
+    "latitude": 41.8965025,
+    "longitude": -87.62864789999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "1200 North Larrabee Street, Chicago",
+    "latitude": 41.90435009999999,
+    "longitude": -87.644284
+  },
+  {
+    "name": "Target Grocery",
+    "address": "2650 North Clark Street, Chicago",
+    "latitude": 41.931176,
+    "longitude": -87.6446034
+  },
+  {
+    "name": "Target Grocery",
+    "address": "401 East Illinois Street, Chicago",
+    "latitude": 41.8907947,
+    "longitude": -87.61728529999999
+  },
+  {
+    "name": "Wild Fork",
+    "address": "1001 West North Avenue, Chicago",
+    "latitude": 41.91051599999999,
+    "longitude": -87.65362689999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "3204 North Clark Street, Chicago",
+    "latitude": 41.9402515,
+    "longitude": -87.6513923
+  },
+  {
+    "name": "Fresh Stop Produce and Market",
+    "address": "930 West Belmont Avenue, Chicago",
+    "latitude": 41.9400528,
+    "longitude": -87.652709
+  },
+  {
+    "name": "Fresh Stop Deli",
+    "address": "930 West Belmont Avenue, Chicago",
+    "latitude": 41.940189,
+    "longitude": -87.6527138
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "44 East Ontario Street, Chicago",
+    "latitude": 41.893436,
+    "longitude": -87.6262507
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "550 North State Street, Chicago",
+    "latitude": 41.89228949999999,
+    "longitude": -87.62858399999999
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "1840 North Clybourn Avenue, Chicago",
+    "latitude": 41.9144861,
+    "longitude": -87.6549833
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "667 West Diversey Parkway, Chicago",
+    "latitude": 41.9324176,
+    "longitude": -87.6462646
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "1550 North Kingsbury Street, Chicago",
+    "latitude": 41.9086787,
+    "longitude": -87.65264119999999
+  },
+  {
+    "name": "Potash Markets - State St",
+    "address": "875 North State Street, Chicago",
+    "latitude": 41.8987123,
+    "longitude": -87.6280792
+  },
+  {
+    "name": "Big Apple Finer Foods",
+    "address": "2345 North Clark Street, Chicago",
+    "latitude": 41.9249488,
+    "longitude": -87.6399364
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "370 North Desplaines Street, Chicago",
+    "latitude": 41.8887205,
+    "longitude": -87.6449859
+  },
+  {
+    "name": "Bockwinkel's",
+    "address": "222 North Columbus Drive, Chicago",
+    "latitude": 41.88668119999999,
+    "longitude": -87.62213919999999
+  },
+  {
+    "name": "Carnival Foods",
+    "address": "458 West Dickens Avenue, Chicago",
+    "latitude": 41.92021510000001,
+    "longitude": -87.64079290000001
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "102 West Division Street, Chicago",
+    "latitude": 41.904091,
+    "longitude": -87.6317686
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "424 West Division Street, Chicago",
+    "latitude": 41.9048762,
+    "longitude": -87.63966119999999
+  },
+  {
+    "name": "Bockwinkel's",
+    "address": "320 East Ohio Street, Chicago",
+    "latitude": 41.8927663,
+    "longitude": -87.6194187
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "255 East Grand Avenue, Chicago",
+    "latitude": 41.8911648,
+    "longitude": -87.620426
+  },
+  {
+    "name": "Belmont Harbor Market",
+    "address": "3170 North Sheridan Road, Chicago",
+    "latitude": 41.9400079,
+    "longitude": -87.63971769999999
+  },
+  {
+    "name": "ALDI",
+    "address": "1836 North Clybourn Avenue, Chicago",
+    "latitude": 41.9145652,
+    "longitude": -87.6551582
+  },
+  {
+    "name": "Potash Markets - Clark Street",
+    "address": "1525 North Clark Street, Chicago",
+    "latitude": 41.9104251,
+    "longitude": -87.6314647
+  },
+  {
+    "name": "Stop & Shop Grocery Store",
+    "address": "333 West North Avenue, Chicago",
+    "latitude": 41.910747,
+    "longitude": -87.63832239999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "555 West Webster Avenue, Chicago",
+    "latitude": 41.9216626,
+    "longitude": -87.64262839999999
+  },
+  {
+    "name": "ALDI",
+    "address": "201 West Division Street, Chicago",
+    "latitude": 41.90360949999999,
+    "longitude": -87.6347542
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "3 West Chicago Avenue, Chicago",
+    "latitude": 41.8965025,
+    "longitude": -87.62864789999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "1200 North Larrabee Street, Chicago",
+    "latitude": 41.90435009999999,
+    "longitude": -87.644284
+  },
+  {
+    "name": "Target Grocery",
+    "address": "2650 North Clark Street, Chicago",
+    "latitude": 41.931176,
+    "longitude": -87.6446034
+  },
+  {
+    "name": "Target Grocery",
+    "address": "401 East Illinois Street, Chicago",
+    "latitude": 41.8907947,
+    "longitude": -87.61728529999999
+  },
+  {
+    "name": "Wild Fork",
+    "address": "1001 West North Avenue, Chicago",
+    "latitude": 41.91051599999999,
+    "longitude": -87.65362689999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "3204 North Clark Street, Chicago",
+    "latitude": 41.9402515,
+    "longitude": -87.6513923
+  },
+  {
+    "name": "Fresh Stop Produce and Market",
+    "address": "930 West Belmont Avenue, Chicago",
+    "latitude": 41.9400528,
+    "longitude": -87.652709
+  },
+  {
+    "name": "Fresh Stop Deli",
+    "address": "930 West Belmont Avenue, Chicago",
+    "latitude": 41.940189,
+    "longitude": -87.6527138
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "44 East Ontario Street, Chicago",
+    "latitude": 41.893436,
+    "longitude": -87.6262507
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "550 North State Street, Chicago",
+    "latitude": 41.89228949999999,
+    "longitude": -87.62858399999999
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "667 West Diversey Parkway, Chicago",
+    "latitude": 41.9324176,
+    "longitude": -87.6462646
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "1840 North Clybourn Avenue, Chicago",
+    "latitude": 41.9144861,
+    "longitude": -87.6549833
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "1550 North Kingsbury Street, Chicago",
+    "latitude": 41.9086787,
+    "longitude": -87.65264119999999
+  },
+  {
+    "name": "Potash Markets - State St",
+    "address": "875 North State Street, Chicago",
+    "latitude": 41.8987123,
+    "longitude": -87.6280792
+  },
+  {
+    "name": "Big Apple Finer Foods",
+    "address": "2345 North Clark Street, Chicago",
+    "latitude": 41.9249488,
+    "longitude": -87.6399364
+  },
+  {
+    "name": "Bockwinkel's",
+    "address": "222 North Columbus Drive, Chicago",
+    "latitude": 41.88668119999999,
+    "longitude": -87.62213919999999
+  },
+  {
+    "name": "Carnival Foods",
+    "address": "458 West Dickens Avenue, Chicago",
+    "latitude": 41.92021510000001,
+    "longitude": -87.64079290000001
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "102 West Division Street, Chicago",
+    "latitude": 41.904091,
+    "longitude": -87.6317686
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "424 West Division Street, Chicago",
+    "latitude": 41.9048762,
+    "longitude": -87.63966119999999
+  },
+  {
+    "name": "Bockwinkel's",
+    "address": "320 East Ohio Street, Chicago",
+    "latitude": 41.8927663,
+    "longitude": -87.6194187
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "255 East Grand Avenue, Chicago",
+    "latitude": 41.8911648,
+    "longitude": -87.620426
+  },
+  {
+    "name": "Belmont Harbor Market",
+    "address": "3170 North Sheridan Road, Chicago",
+    "latitude": 41.9400079,
+    "longitude": -87.63971769999999
+  },
+  {
+    "name": "ALDI",
+    "address": "1836 North Clybourn Avenue, Chicago",
+    "latitude": 41.9145652,
+    "longitude": -87.6551582
+  },
+  {
+    "name": "Potash Markets - Clark Street",
+    "address": "1525 North Clark Street, Chicago",
+    "latitude": 41.9104251,
+    "longitude": -87.6314647
+  },
+  {
+    "name": "Stop & Shop Grocery Store",
+    "address": "333 West North Avenue, Chicago",
+    "latitude": 41.910747,
+    "longitude": -87.63832239999999
+  },
+  {
+    "name": "ALDI",
+    "address": "201 West Division Street, Chicago",
+    "latitude": 41.90360949999999,
+    "longitude": -87.6347542
+  },
+  {
+    "name": "Target Grocery",
+    "address": "555 West Webster Avenue, Chicago",
+    "latitude": 41.9216626,
+    "longitude": -87.64262839999999
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "3 West Chicago Avenue, Chicago",
+    "latitude": 41.8965025,
+    "longitude": -87.62864789999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "1200 North Larrabee Street, Chicago",
+    "latitude": 41.90435009999999,
+    "longitude": -87.644284
+  },
+  {
+    "name": "Target Grocery",
+    "address": "2650 North Clark Street, Chicago",
+    "latitude": 41.931176,
+    "longitude": -87.6446034
+  },
+  {
+    "name": "Target Grocery",
+    "address": "401 East Illinois Street, Chicago",
+    "latitude": 41.8907947,
+    "longitude": -87.61728529999999
+  },
+  {
+    "name": "Wild Fork",
+    "address": "1001 West North Avenue, Chicago",
+    "latitude": 41.91051599999999,
+    "longitude": -87.65362689999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "3204 North Clark Street, Chicago",
+    "latitude": 41.9402515,
+    "longitude": -87.6513923
+  },
+  {
+    "name": "Fresh Stop Produce and Market",
+    "address": "930 West Belmont Avenue, Chicago",
+    "latitude": 41.9400528,
+    "longitude": -87.652709
+  },
+  {
+    "name": "Fresh Stop Deli",
+    "address": "930 West Belmont Avenue, Chicago",
+    "latitude": 41.940189,
+    "longitude": -87.6527138
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "44 East Ontario Street, Chicago",
+    "latitude": 41.893436,
+    "longitude": -87.6262507
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "550 North State Street, Chicago",
+    "latitude": 41.89228949999999,
+    "longitude": -87.62858399999999
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "667 West Diversey Parkway, Chicago",
+    "latitude": 41.9324176,
+    "longitude": -87.6462646
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "1840 North Clybourn Avenue, Chicago",
+    "latitude": 41.9144861,
+    "longitude": -87.6549833
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "1550 North Kingsbury Street, Chicago",
+    "latitude": 41.9086787,
+    "longitude": -87.65264119999999
+  },
+  {
+    "name": "Potash Markets - State St",
+    "address": "875 North State Street, Chicago",
+    "latitude": 41.8987123,
+    "longitude": -87.6280792
+  },
+  {
+    "name": "Big Apple Finer Foods",
+    "address": "2345 North Clark Street, Chicago",
+    "latitude": 41.9249488,
+    "longitude": -87.6399364
+  },
+  {
+    "name": "Bockwinkel's",
+    "address": "222 North Columbus Drive, Chicago",
+    "latitude": 41.88668119999999,
+    "longitude": -87.62213919999999
+  },
+  {
+    "name": "Carnival Foods",
+    "address": "458 West Dickens Avenue, Chicago",
+    "latitude": 41.92021510000001,
+    "longitude": -87.64079290000001
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "102 West Division Street, Chicago",
+    "latitude": 41.904091,
+    "longitude": -87.6317686
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "424 West Division Street, Chicago",
+    "latitude": 41.9048762,
+    "longitude": -87.63966119999999
+  },
+  {
+    "name": "Bockwinkel's",
+    "address": "320 East Ohio Street, Chicago",
+    "latitude": 41.8927663,
+    "longitude": -87.6194187
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "255 East Grand Avenue, Chicago",
+    "latitude": 41.8911648,
+    "longitude": -87.620426
+  },
+  {
+    "name": "Belmont Harbor Market",
+    "address": "3170 North Sheridan Road, Chicago",
+    "latitude": 41.9400079,
+    "longitude": -87.63971769999999
+  },
+  {
+    "name": "ALDI",
+    "address": "1836 North Clybourn Avenue, Chicago",
+    "latitude": 41.9145652,
+    "longitude": -87.6551582
+  },
+  {
+    "name": "Potash Markets - Clark Street",
+    "address": "1525 North Clark Street, Chicago",
+    "latitude": 41.9104251,
+    "longitude": -87.6314647
+  },
+  {
+    "name": "Stop & Shop Grocery Store",
+    "address": "333 West North Avenue, Chicago",
+    "latitude": 41.910747,
+    "longitude": -87.63832239999999
+  },
+  {
+    "name": "ALDI",
+    "address": "201 West Division Street, Chicago",
+    "latitude": 41.90360949999999,
+    "longitude": -87.6347542
+  },
+  {
+    "name": "Target Grocery",
+    "address": "555 West Webster Avenue, Chicago",
+    "latitude": 41.9216626,
+    "longitude": -87.64262839999999
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "3 West Chicago Avenue, Chicago",
+    "latitude": 41.8965025,
+    "longitude": -87.62864789999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "1200 North Larrabee Street, Chicago",
+    "latitude": 41.90435009999999,
+    "longitude": -87.644284
+  },
+  {
+    "name": "Target Grocery",
+    "address": "2650 North Clark Street, Chicago",
+    "latitude": 41.931176,
+    "longitude": -87.6446034
+  },
+  {
+    "name": "Target Grocery",
+    "address": "401 East Illinois Street, Chicago",
+    "latitude": 41.8907947,
+    "longitude": -87.61728529999999
+  },
+  {
+    "name": "Wild Fork",
+    "address": "1001 West North Avenue, Chicago",
+    "latitude": 41.91051599999999,
+    "longitude": -87.65362689999999
+  },
+  {
+    "name": "Target Grocery",
+    "address": "3204 North Clark Street, Chicago",
+    "latitude": 41.9402515,
+    "longitude": -87.6513923
+  },
+  {
+    "name": "Fresh Stop Produce and Market",
+    "address": "930 West Belmont Avenue, Chicago",
+    "latitude": 41.9400528,
+    "longitude": -87.652709
+  },
+  {
+    "name": "Fresh Stop Deli",
+    "address": "930 West Belmont Avenue, Chicago",
+    "latitude": 41.940189,
+    "longitude": -87.6527138
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "3640 North Halsted Street, Chicago",
+    "latitude": 41.9483258,
+    "longitude": -87.6498127
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "667 West Diversey Parkway, Chicago",
+    "latitude": 41.9324176,
+    "longitude": -87.6462646
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "3531 North Broadway, Chicago",
+    "latitude": 41.94680810000001,
+    "longitude": -87.646152
+  },
+  {
+    "name": "ALDI",
+    "address": "4500 North Broadway, Chicago",
+    "latitude": 41.96376639999999,
+    "longitude": -87.6568743
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "3630 North Southport Avenue, Chicago",
+    "latitude": 41.9481402,
+    "longitude": -87.6643538
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "4355 North Sheridan Road, Chicago",
+    "latitude": 41.96130170000001,
+    "longitude": -87.65344329999999
+  },
+  {
+    "name": "Big Apple Finer Foods",
+    "address": "2345 North Clark Street, Chicago",
+    "latitude": 41.9249488,
+    "longitude": -87.6399364
+  },
+  {
+    "name": "Tai Nam Food Market",
+    "address": "4925 North Broadway, Chicago",
+    "latitude": 41.97241210000001,
+    "longitude": -87.6589432
+  },
+  {
+    "name": "Fiesta Grocery Inc",
+    "address": "4425 North Sheridan Road, Chicago",
+    "latitude": 41.9625808,
+    "longitude": -87.6545717
+  },
+  {
+    "name": "Belmont Harbor Market",
+    "address": "3170 North Sheridan Road, Chicago",
+    "latitude": 41.9400079,
+    "longitude": -87.63971769999999
+  },
+  {
+    "name": "Park To Shop Supermarket",
+    "address": "4879 North Broadway, Chicago",
+    "latitude": 41.9711048,
+    "longitude": -87.65906439999999
+  },
+  {
+    "name": "Uptown Shop & Save",
+    "address": "4605 North Sheridan Road, Chicago",
+    "latitude": 41.9655709,
+    "longitude": -87.654611
+  },
+  {
+    "name": "XMarket Bodega",
+    "address": "804 West Montrose Avenue, Chicago",
+    "latitude": 41.9620211,
+    "longitude": -87.65019509999999
+  },
+  {
+    "name": "XMarket Food Hall",
+    "address": "804 West Montrose Avenue, Chicago",
+    "latitude": 41.96201490000001,
+    "longitude": -87.6502464
+  },
+  {
+    "name": "Makola African Supermarket",
+    "address": "1019 West Wilson Avenue #1017, Chicago",
+    "latitude": 41.9652313,
+    "longitude": -87.6556339
+  },
+  {
+    "name": "First Stop Food Mart",
+    "address": "4425 North Sheridan Road, Chicago",
+    "latitude": 41.9625808,
+    "longitude": -87.6545717
+  },
+  {
+    "name": "Target Grocery",
+    "address": "3204 North Clark Street, Chicago",
+    "latitude": 41.9402515,
+    "longitude": -87.6513923
+  },
+  {
+    "name": "Fresh Stop Deli",
+    "address": "930 West Belmont Avenue, Chicago",
+    "latitude": 41.940189,
+    "longitude": -87.6527138
+  },
+  {
+    "name": "Fresh Stop Produce and Market",
+    "address": "930 West Belmont Avenue, Chicago",
+    "latitude": 41.9400528,
+    "longitude": -87.652709
+  },
+  {
+    "name": "Target Grocery",
+    "address": "4466 North Broadway, Chicago",
+    "latitude": 41.963416,
+    "longitude": -87.6565512
+  },
+  {
+    "name": "Target Grocery",
+    "address": "2650 North Clark Street, Chicago",
+    "latitude": 41.931176,
+    "longitude": -87.6446034
+  },
+  {
+    "name": "Target Grocery",
+    "address": "555 West Webster Avenue, Chicago",
+    "latitude": 41.9216626,
+    "longitude": -87.64262839999999
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "3640 North Halsted Street, Chicago",
+    "latitude": 41.9483258,
+    "longitude": -87.6498127
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "667 West Diversey Parkway, Chicago",
+    "latitude": 41.9324176,
+    "longitude": -87.6462646
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "3531 North Broadway, Chicago",
+    "latitude": 41.94680810000001,
+    "longitude": -87.646152
+  },
+  {
+    "name": "ALDI",
+    "address": "4500 North Broadway, Chicago",
+    "latitude": 41.96376639999999,
+    "longitude": -87.6568743
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "3630 North Southport Avenue, Chicago",
+    "latitude": 41.9481402,
+    "longitude": -87.6643538
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "4355 North Sheridan Road, Chicago",
+    "latitude": 41.96130170000001,
+    "longitude": -87.65344329999999
+  },
+  {
+    "name": "Big Apple Finer Foods",
+    "address": "2345 North Clark Street, Chicago",
+    "latitude": 41.9249488,
+    "longitude": -87.6399364
+  },
+  {
+    "name": "Tai Nam Food Market",
+    "address": "4925 North Broadway, Chicago",
+    "latitude": 41.97241210000001,
+    "longitude": -87.6589432
+  },
+  {
+    "name": "Belmont Harbor Market",
+    "address": "3170 North Sheridan Road, Chicago",
+    "latitude": 41.9400079,
+    "longitude": -87.63971769999999
+  },
+  {
+    "name": "Fiesta Grocery Inc",
+    "address": "4425 North Sheridan Road, Chicago",
+    "latitude": 41.9625808,
+    "longitude": -87.6545717
+  },
+  {
+    "name": "Park To Shop Supermarket",
+    "address": "4879 North Broadway, Chicago",
+    "latitude": 41.9711048,
+    "longitude": -87.65906439999999
+  },
+  {
+    "name": "Uptown Shop & Save",
+    "address": "4605 North Sheridan Road, Chicago",
+    "latitude": 41.9655709,
+    "longitude": -87.654611
+  },
+  {
+    "name": "XMarket Bodega",
+    "address": "804 West Montrose Avenue, Chicago",
+    "latitude": 41.9620211,
+    "longitude": -87.65019509999999
+  },
+  {
+    "name": "XMarket Food Hall",
+    "address": "804 West Montrose Avenue, Chicago",
+    "latitude": 41.96201490000001,
+    "longitude": -87.6502464
+  },
+  {
+    "name": "First Stop Food Mart",
+    "address": "4425 North Sheridan Road, Chicago",
+    "latitude": 41.9625808,
+    "longitude": -87.6545717
+  },
+  {
+    "name": "Target Grocery",
+    "address": "3204 North Clark Street, Chicago",
+    "latitude": 41.9402515,
+    "longitude": -87.6513923
+  },
+  {
+    "name": "Makola African Supermarket",
+    "address": "1019 West Wilson Avenue #1017, Chicago",
+    "latitude": 41.9652313,
+    "longitude": -87.6556339
+  },
+  {
+    "name": "Fresh Stop Deli",
+    "address": "930 West Belmont Avenue, Chicago",
+    "latitude": 41.940189,
+    "longitude": -87.6527138
+  },
+  {
+    "name": "Fresh Stop Produce and Market",
+    "address": "930 West Belmont Avenue, Chicago",
+    "latitude": 41.9400528,
+    "longitude": -87.652709
+  },
+  {
+    "name": "Target Grocery",
+    "address": "4466 North Broadway, Chicago",
+    "latitude": 41.963416,
+    "longitude": -87.6565512
+  },
+  {
+    "name": "Target Grocery",
+    "address": "2650 North Clark Street, Chicago",
+    "latitude": 41.931176,
+    "longitude": -87.6446034
+  },
+  {
+    "name": "Target Grocery",
+    "address": "555 West Webster Avenue, Chicago",
+    "latitude": 41.9216626,
+    "longitude": -87.64262839999999
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "3640 North Halsted Street, Chicago",
+    "latitude": 41.9483258,
+    "longitude": -87.6498127
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "667 West Diversey Parkway, Chicago",
+    "latitude": 41.9324176,
+    "longitude": -87.6462646
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "3531 North Broadway, Chicago",
+    "latitude": 41.94680810000001,
+    "longitude": -87.646152
+  },
+  {
+    "name": "ALDI",
+    "address": "4500 North Broadway, Chicago",
+    "latitude": 41.96376639999999,
+    "longitude": -87.6568743
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "4355 North Sheridan Road, Chicago",
+    "latitude": 41.96130170000001,
+    "longitude": -87.65344329999999
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "3630 North Southport Avenue, Chicago",
+    "latitude": 41.9481402,
+    "longitude": -87.6643538
+  },
+  {
+    "name": "Big Apple Finer Foods",
+    "address": "2345 North Clark Street, Chicago",
+    "latitude": 41.9249488,
+    "longitude": -87.6399364
+  },
+  {
+    "name": "Tai Nam Food Market",
+    "address": "4925 North Broadway, Chicago",
+    "latitude": 41.97241210000001,
+    "longitude": -87.6589432
+  },
+  {
+    "name": "Belmont Harbor Market",
+    "address": "3170 North Sheridan Road, Chicago",
+    "latitude": 41.9400079,
+    "longitude": -87.63971769999999
+  },
+  {
+    "name": "Fiesta Grocery Inc",
+    "address": "4425 North Sheridan Road, Chicago",
+    "latitude": 41.9625808,
+    "longitude": -87.6545717
+  },
+  {
+    "name": "Park To Shop Supermarket",
+    "address": "4879 North Broadway, Chicago",
+    "latitude": 41.9711048,
+    "longitude": -87.65906439999999
+  },
+  {
+    "name": "Uptown Shop & Save",
+    "address": "4605 North Sheridan Road, Chicago",
+    "latitude": 41.9655709,
+    "longitude": -87.654611
+  },
+  {
+    "name": "XMarket Bodega",
+    "address": "804 West Montrose Avenue, Chicago",
+    "latitude": 41.9620211,
+    "longitude": -87.65019509999999
+  },
+  {
+    "name": "XMarket Food Hall",
+    "address": "804 West Montrose Avenue, Chicago",
+    "latitude": 41.96201490000001,
+    "longitude": -87.6502464
+  },
+  {
+    "name": "First Stop Food Mart",
+    "address": "4425 North Sheridan Road, Chicago",
+    "latitude": 41.9625808,
+    "longitude": -87.6545717
+  },
+  {
+    "name": "Target Grocery",
+    "address": "3204 North Clark Street, Chicago",
+    "latitude": 41.9402515,
+    "longitude": -87.6513923
+  },
+  {
+    "name": "Makola African Supermarket",
+    "address": "1019 West Wilson Avenue #1017, Chicago",
+    "latitude": 41.9652313,
+    "longitude": -87.6556339
+  },
+  {
+    "name": "Fresh Stop Deli",
+    "address": "930 West Belmont Avenue, Chicago",
+    "latitude": 41.940189,
+    "longitude": -87.6527138
+  },
+  {
+    "name": "Fresh Stop Produce and Market",
+    "address": "930 West Belmont Avenue, Chicago",
+    "latitude": 41.9400528,
+    "longitude": -87.652709
+  },
+  {
+    "name": "Target Grocery",
+    "address": "4466 North Broadway, Chicago",
+    "latitude": 41.963416,
+    "longitude": -87.6565512
+  },
+  {
+    "name": "Target Grocery",
+    "address": "2650 North Clark Street, Chicago",
+    "latitude": 41.931176,
+    "longitude": -87.6446034
+  },
+  {
+    "name": "Target Grocery",
+    "address": "555 West Webster Avenue, Chicago",
+    "latitude": 41.9216626,
+    "longitude": -87.64262839999999
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "3640 North Halsted Street, Chicago",
+    "latitude": 41.9483258,
+    "longitude": -87.6498127
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "667 West Diversey Parkway, Chicago",
+    "latitude": 41.9324176,
+    "longitude": -87.6462646
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "3531 North Broadway, Chicago",
+    "latitude": 41.94680810000001,
+    "longitude": -87.646152
+  },
+  {
+    "name": "ALDI",
+    "address": "4500 North Broadway, Chicago",
+    "latitude": 41.96376639999999,
+    "longitude": -87.6568743
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "4355 North Sheridan Road, Chicago",
+    "latitude": 41.96130170000001,
+    "longitude": -87.65344329999999
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "3630 North Southport Avenue, Chicago",
+    "latitude": 41.9481402,
+    "longitude": -87.6643538
+  },
+  {
+    "name": "Big Apple Finer Foods",
+    "address": "2345 North Clark Street, Chicago",
+    "latitude": 41.9249488,
+    "longitude": -87.6399364
+  },
+  {
+    "name": "Tai Nam Food Market",
+    "address": "4925 North Broadway, Chicago",
+    "latitude": 41.97241210000001,
+    "longitude": -87.6589432
+  },
+  {
+    "name": "Belmont Harbor Market",
+    "address": "3170 North Sheridan Road, Chicago",
+    "latitude": 41.9400079,
+    "longitude": -87.63971769999999
+  },
+  {
+    "name": "Fiesta Grocery Inc",
+    "address": "4425 North Sheridan Road, Chicago",
+    "latitude": 41.9625808,
+    "longitude": -87.6545717
+  },
+  {
+    "name": "Park To Shop Supermarket",
+    "address": "4879 North Broadway, Chicago",
+    "latitude": 41.9711048,
+    "longitude": -87.65906439999999
+  },
+  {
+    "name": "Uptown Shop & Save",
+    "address": "4605 North Sheridan Road, Chicago",
+    "latitude": 41.9655709,
+    "longitude": -87.654611
+  },
+  {
+    "name": "XMarket Bodega",
+    "address": "804 West Montrose Avenue, Chicago",
+    "latitude": 41.9620211,
+    "longitude": -87.65019509999999
+  },
+  {
+    "name": "XMarket Food Hall",
+    "address": "804 West Montrose Avenue, Chicago",
+    "latitude": 41.96201490000001,
+    "longitude": -87.6502464
+  },
+  {
+    "name": "Target Grocery",
+    "address": "3204 North Clark Street, Chicago",
+    "latitude": 41.9402515,
+    "longitude": -87.6513923
+  },
+  {
+    "name": "First Stop Food Mart",
+    "address": "4425 North Sheridan Road, Chicago",
+    "latitude": 41.9625808,
+    "longitude": -87.6545717
+  },
+  {
+    "name": "Makola African Supermarket",
+    "address": "1019 West Wilson Avenue #1017, Chicago",
+    "latitude": 41.9652313,
+    "longitude": -87.6556339
+  },
+  {
+    "name": "Fresh Stop Deli",
+    "address": "930 West Belmont Avenue, Chicago",
+    "latitude": 41.940189,
+    "longitude": -87.6527138
+  },
+  {
+    "name": "Fresh Stop Produce and Market",
+    "address": "930 West Belmont Avenue, Chicago",
+    "latitude": 41.9400528,
+    "longitude": -87.652709
+  },
+  {
+    "name": "Target Grocery",
+    "address": "4466 North Broadway, Chicago",
+    "latitude": 41.963416,
+    "longitude": -87.6565512
+  },
+  {
+    "name": "Target Grocery",
+    "address": "2650 North Clark Street, Chicago",
+    "latitude": 41.931176,
+    "longitude": -87.6446034
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "3640 North Halsted Street, Chicago",
+    "latitude": 41.9483258,
+    "longitude": -87.6498127
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "667 West Diversey Parkway, Chicago",
+    "latitude": 41.9324176,
+    "longitude": -87.6462646
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "3531 North Broadway, Chicago",
+    "latitude": 41.94680810000001,
+    "longitude": -87.646152
+  },
+  {
+    "name": "ALDI",
+    "address": "4500 North Broadway, Chicago",
+    "latitude": 41.96376639999999,
+    "longitude": -87.6568743
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "4355 North Sheridan Road, Chicago",
+    "latitude": 41.96130170000001,
+    "longitude": -87.65344329999999
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "3630 North Southport Avenue, Chicago",
+    "latitude": 41.9481402,
+    "longitude": -87.6643538
+  },
+  {
+    "name": "Big Apple Finer Foods",
+    "address": "2345 North Clark Street, Chicago",
+    "latitude": 41.9249488,
+    "longitude": -87.6399364
+  },
+  {
+    "name": "Tai Nam Food Market",
+    "address": "4925 North Broadway, Chicago",
+    "latitude": 41.97241210000001,
+    "longitude": -87.6589432
+  },
+  {
+    "name": "Belmont Harbor Market",
+    "address": "3170 North Sheridan Road, Chicago",
+    "latitude": 41.9400079,
+    "longitude": -87.63971769999999
+  },
+  {
+    "name": "Fiesta Grocery Inc",
+    "address": "4425 North Sheridan Road, Chicago",
+    "latitude": 41.9625808,
+    "longitude": -87.6545717
+  },
+  {
+    "name": "Park To Shop Supermarket",
+    "address": "4879 North Broadway, Chicago",
+    "latitude": 41.9711048,
+    "longitude": -87.65906439999999
+  },
+  {
+    "name": "Uptown Shop & Save",
+    "address": "4605 North Sheridan Road, Chicago",
+    "latitude": 41.9655709,
+    "longitude": -87.654611
+  },
+  {
+    "name": "XMarket Bodega",
+    "address": "804 West Montrose Avenue, Chicago",
+    "latitude": 41.9620211,
+    "longitude": -87.65019509999999
+  },
+  {
+    "name": "XMarket Food Hall",
+    "address": "804 West Montrose Avenue, Chicago",
+    "latitude": 41.96201490000001,
+    "longitude": -87.6502464
+  },
+  {
+    "name": "Target Grocery",
+    "address": "3204 North Clark Street, Chicago",
+    "latitude": 41.9402515,
+    "longitude": -87.6513923
+  },
+  {
+    "name": "First Stop Food Mart",
+    "address": "4425 North Sheridan Road, Chicago",
+    "latitude": 41.9625808,
+    "longitude": -87.6545717
+  },
+  {
+    "name": "Makola African Supermarket",
+    "address": "1019 West Wilson Avenue #1017, Chicago",
+    "latitude": 41.9652313,
+    "longitude": -87.6556339
+  },
+  {
+    "name": "Fresh Stop Deli",
+    "address": "930 West Belmont Avenue, Chicago",
+    "latitude": 41.940189,
+    "longitude": -87.6527138
+  },
+  {
+    "name": "Fresh Stop Produce and Market",
+    "address": "930 West Belmont Avenue, Chicago",
+    "latitude": 41.9400528,
+    "longitude": -87.652709
+  },
+  {
+    "name": "Target Grocery",
+    "address": "4466 North Broadway, Chicago",
+    "latitude": 41.963416,
+    "longitude": -87.6565512
+  },
+  {
+    "name": "Target Grocery",
+    "address": "2650 North Clark Street, Chicago",
+    "latitude": 41.931176,
+    "longitude": -87.6446034
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "3640 North Halsted Street, Chicago",
+    "latitude": 41.9483258,
+    "longitude": -87.6498127
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "667 West Diversey Parkway, Chicago",
+    "latitude": 41.9324176,
+    "longitude": -87.6462646
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "3531 North Broadway, Chicago",
+    "latitude": 41.94680810000001,
+    "longitude": -87.646152
+  },
+  {
+    "name": "ALDI",
+    "address": "4500 North Broadway, Chicago",
+    "latitude": 41.96376639999999,
+    "longitude": -87.6568743
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "4355 North Sheridan Road, Chicago",
+    "latitude": 41.96130170000001,
+    "longitude": -87.65344329999999
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "3630 North Southport Avenue, Chicago",
+    "latitude": 41.9481402,
+    "longitude": -87.6643538
+  },
+  {
+    "name": "Big Apple Finer Foods",
+    "address": "2345 North Clark Street, Chicago",
+    "latitude": 41.9249488,
+    "longitude": -87.6399364
+  },
+  {
+    "name": "Tai Nam Food Market",
+    "address": "4925 North Broadway, Chicago",
+    "latitude": 41.97241210000001,
+    "longitude": -87.6589432
+  },
+  {
+    "name": "Belmont Harbor Market",
+    "address": "3170 North Sheridan Road, Chicago",
+    "latitude": 41.9400079,
+    "longitude": -87.63971769999999
+  },
+  {
+    "name": "Fiesta Grocery Inc",
+    "address": "4425 North Sheridan Road, Chicago",
+    "latitude": 41.9625808,
+    "longitude": -87.6545717
+  },
+  {
+    "name": "Park To Shop Supermarket",
+    "address": "4879 North Broadway, Chicago",
+    "latitude": 41.9711048,
+    "longitude": -87.65906439999999
+  },
+  {
+    "name": "Uptown Shop & Save",
+    "address": "4605 North Sheridan Road, Chicago",
+    "latitude": 41.9655709,
+    "longitude": -87.654611
+  },
+  {
+    "name": "XMarket Bodega",
+    "address": "804 West Montrose Avenue, Chicago",
+    "latitude": 41.9620211,
+    "longitude": -87.65019509999999
+  },
+  {
+    "name": "XMarket Food Hall",
+    "address": "804 West Montrose Avenue, Chicago",
+    "latitude": 41.96201490000001,
+    "longitude": -87.6502464
+  },
+  {
+    "name": "Target Grocery",
+    "address": "3204 North Clark Street, Chicago",
+    "latitude": 41.9402515,
+    "longitude": -87.6513923
+  },
+  {
+    "name": "First Stop Food Mart",
+    "address": "4425 North Sheridan Road, Chicago",
+    "latitude": 41.9625808,
+    "longitude": -87.6545717
+  },
+  {
+    "name": "Fresh Stop Deli",
+    "address": "930 West Belmont Avenue, Chicago",
+    "latitude": 41.940189,
+    "longitude": -87.6527138
+  },
+  {
+    "name": "Fresh Stop Produce and Market",
+    "address": "930 West Belmont Avenue, Chicago",
+    "latitude": 41.9400528,
+    "longitude": -87.652709
+  },
+  {
+    "name": "Makola African Supermarket",
+    "address": "1019 West Wilson Avenue #1017, Chicago",
+    "latitude": 41.9652313,
+    "longitude": -87.6556339
+  },
+  {
+    "name": "Target Grocery",
+    "address": "4466 North Broadway, Chicago",
+    "latitude": 41.963416,
+    "longitude": -87.6565512
+  },
+  {
+    "name": "Target Grocery",
+    "address": "2650 North Clark Street, Chicago",
+    "latitude": 41.931176,
+    "longitude": -87.6446034
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "3640 North Halsted Street, Chicago",
+    "latitude": 41.9483258,
+    "longitude": -87.6498127
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "667 West Diversey Parkway, Chicago",
+    "latitude": 41.9324176,
+    "longitude": -87.6462646
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "3531 North Broadway, Chicago",
+    "latitude": 41.94680810000001,
+    "longitude": -87.646152
+  },
+  {
+    "name": "ALDI",
+    "address": "4500 North Broadway, Chicago",
+    "latitude": 41.96376639999999,
+    "longitude": -87.6568743
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "4355 North Sheridan Road, Chicago",
+    "latitude": 41.96130170000001,
+    "longitude": -87.65344329999999
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "3630 North Southport Avenue, Chicago",
+    "latitude": 41.9481402,
+    "longitude": -87.6643538
+  },
+  {
+    "name": "Big Apple Finer Foods",
+    "address": "2345 North Clark Street, Chicago",
+    "latitude": 41.9249488,
+    "longitude": -87.6399364
+  },
+  {
+    "name": "Belmont Harbor Market",
+    "address": "3170 North Sheridan Road, Chicago",
+    "latitude": 41.9400079,
+    "longitude": -87.63971769999999
+  },
+  {
+    "name": "Fiesta Grocery Inc",
+    "address": "4425 North Sheridan Road, Chicago",
+    "latitude": 41.9625808,
+    "longitude": -87.6545717
+  },
+  {
+    "name": "Tai Nam Food Market",
+    "address": "4925 North Broadway, Chicago",
+    "latitude": 41.97241210000001,
+    "longitude": -87.6589432
+  },
+  {
+    "name": "Park To Shop Supermarket",
+    "address": "4879 North Broadway, Chicago",
+    "latitude": 41.9711048,
+    "longitude": -87.65906439999999
+  },
+  {
+    "name": "Uptown Shop & Save",
+    "address": "4605 North Sheridan Road, Chicago",
+    "latitude": 41.9655709,
+    "longitude": -87.654611
+  },
+  {
+    "name": "XMarket Bodega",
+    "address": "804 West Montrose Avenue, Chicago",
+    "latitude": 41.9620211,
+    "longitude": -87.65019509999999
+  },
+  {
+    "name": "XMarket Food Hall",
+    "address": "804 West Montrose Avenue, Chicago",
+    "latitude": 41.96201490000001,
+    "longitude": -87.6502464
+  },
+  {
+    "name": "Target Grocery",
+    "address": "3204 North Clark Street, Chicago",
+    "latitude": 41.9402515,
+    "longitude": -87.6513923
+  },
+  {
+    "name": "First Stop Food Mart",
+    "address": "4425 North Sheridan Road, Chicago",
+    "latitude": 41.9625808,
+    "longitude": -87.6545717
+  },
+  {
+    "name": "Fresh Stop Deli",
+    "address": "930 West Belmont Avenue, Chicago",
+    "latitude": 41.940189,
+    "longitude": -87.6527138
+  },
+  {
+    "name": "Fresh Stop Produce and Market",
+    "address": "930 West Belmont Avenue, Chicago",
+    "latitude": 41.9400528,
+    "longitude": -87.652709
+  },
+  {
+    "name": "Makola African Supermarket",
+    "address": "1019 West Wilson Avenue #1017, Chicago",
+    "latitude": 41.9652313,
+    "longitude": -87.6556339
+  },
+  {
+    "name": "Target Grocery",
+    "address": "2650 North Clark Street, Chicago",
+    "latitude": 41.931176,
+    "longitude": -87.6446034
+  },
+  {
+    "name": "Target Grocery",
+    "address": "4466 North Broadway, Chicago",
+    "latitude": 41.963416,
+    "longitude": -87.6565512
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "3640 North Halsted Street, Chicago",
+    "latitude": 41.9483258,
+    "longitude": -87.6498127
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "3531 North Broadway, Chicago",
+    "latitude": 41.94680810000001,
+    "longitude": -87.646152
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "667 West Diversey Parkway, Chicago",
+    "latitude": 41.9324176,
+    "longitude": -87.6462646
+  },
+  {
+    "name": "ALDI",
+    "address": "4500 North Broadway, Chicago",
+    "latitude": 41.96376639999999,
+    "longitude": -87.6568743
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "4355 North Sheridan Road, Chicago",
+    "latitude": 41.96130170000001,
+    "longitude": -87.65344329999999
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "3630 North Southport Avenue, Chicago",
+    "latitude": 41.9481402,
+    "longitude": -87.6643538
+  },
+  {
+    "name": "Big Apple Finer Foods",
+    "address": "2345 North Clark Street, Chicago",
+    "latitude": 41.9249488,
+    "longitude": -87.6399364
+  },
+  {
+    "name": "Belmont Harbor Market",
+    "address": "3170 North Sheridan Road, Chicago",
+    "latitude": 41.9400079,
+    "longitude": -87.63971769999999
+  },
+  {
+    "name": "Fiesta Grocery Inc",
+    "address": "4425 North Sheridan Road, Chicago",
+    "latitude": 41.9625808,
+    "longitude": -87.6545717
+  },
+  {
+    "name": "XMarket Bodega",
+    "address": "804 West Montrose Avenue, Chicago",
+    "latitude": 41.9620211,
+    "longitude": -87.65019509999999
+  },
+  {
+    "name": "XMarket Food Hall",
+    "address": "804 West Montrose Avenue, Chicago",
+    "latitude": 41.96201490000001,
+    "longitude": -87.6502464
+  },
+  {
+    "name": "Park To Shop Supermarket",
+    "address": "4879 North Broadway, Chicago",
+    "latitude": 41.9711048,
+    "longitude": -87.65906439999999
+  },
+  {
+    "name": "Uptown Shop & Save",
+    "address": "4605 North Sheridan Road, Chicago",
+    "latitude": 41.9655709,
+    "longitude": -87.654611
+  },
+  {
+    "name": "Target Grocery",
+    "address": "3204 North Clark Street, Chicago",
+    "latitude": 41.9402515,
+    "longitude": -87.6513923
+  },
+  {
+    "name": "First Stop Food Mart",
+    "address": "4425 North Sheridan Road, Chicago",
+    "latitude": 41.9625808,
+    "longitude": -87.6545717
+  },
+  {
+    "name": "Fresh Stop Deli",
+    "address": "930 West Belmont Avenue, Chicago",
+    "latitude": 41.940189,
+    "longitude": -87.6527138
+  },
+  {
+    "name": "Fresh Stop Produce and Market",
+    "address": "930 West Belmont Avenue, Chicago",
+    "latitude": 41.9400528,
+    "longitude": -87.652709
+  },
+  {
+    "name": "Makola African Supermarket",
+    "address": "1019 West Wilson Avenue #1017, Chicago",
+    "latitude": 41.9652313,
+    "longitude": -87.6556339
+  },
+  {
+    "name": "Target Grocery",
+    "address": "2650 North Clark Street, Chicago",
+    "latitude": 41.931176,
+    "longitude": -87.6446034
+  },
+  {
+    "name": "Target Grocery",
+    "address": "4466 North Broadway, Chicago",
+    "latitude": 41.963416,
+    "longitude": -87.6565512
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "3640 North Halsted Street, Chicago",
+    "latitude": 41.9483258,
+    "longitude": -87.6498127
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "3531 North Broadway, Chicago",
+    "latitude": 41.94680810000001,
+    "longitude": -87.646152
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "667 West Diversey Parkway, Chicago",
+    "latitude": 41.9324176,
+    "longitude": -87.6462646
+  },
+  {
+    "name": "ALDI",
+    "address": "4500 North Broadway, Chicago",
+    "latitude": 41.96376639999999,
+    "longitude": -87.6568743
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "4355 North Sheridan Road, Chicago",
+    "latitude": 41.96130170000001,
+    "longitude": -87.65344329999999
+  },
+  {
+    "name": "Big Apple Finer Foods",
+    "address": "2345 North Clark Street, Chicago",
+    "latitude": 41.9249488,
+    "longitude": -87.6399364
+  },
+  {
+    "name": "Belmont Harbor Market",
+    "address": "3170 North Sheridan Road, Chicago",
+    "latitude": 41.9400079,
+    "longitude": -87.63971769999999
+  },
+  {
+    "name": "Fiesta Grocery Inc",
+    "address": "4425 North Sheridan Road, Chicago",
+    "latitude": 41.9625808,
+    "longitude": -87.6545717
+  },
+  {
+    "name": "XMarket Bodega",
+    "address": "804 West Montrose Avenue, Chicago",
+    "latitude": 41.9620211,
+    "longitude": -87.65019509999999
+  },
+  {
+    "name": "XMarket Food Hall",
+    "address": "804 West Montrose Avenue, Chicago",
+    "latitude": 41.96201490000001,
+    "longitude": -87.6502464
+  },
+  {
+    "name": "Uptown Shop & Save",
+    "address": "4605 North Sheridan Road, Chicago",
+    "latitude": 41.9655709,
+    "longitude": -87.654611
+  },
+  {
+    "name": "Target Grocery",
+    "address": "3204 North Clark Street, Chicago",
+    "latitude": 41.9402515,
+    "longitude": -87.6513923
+  },
+  {
+    "name": "First Stop Food Mart",
+    "address": "4425 North Sheridan Road, Chicago",
+    "latitude": 41.9625808,
+    "longitude": -87.6545717
+  },
+  {
+    "name": "Fresh Stop Deli",
+    "address": "930 West Belmont Avenue, Chicago",
+    "latitude": 41.940189,
+    "longitude": -87.6527138
+  },
+  {
+    "name": "Fresh Stop Produce and Market",
+    "address": "930 West Belmont Avenue, Chicago",
+    "latitude": 41.9400528,
+    "longitude": -87.652709
+  },
+  {
+    "name": "Makola African Supermarket",
+    "address": "1019 West Wilson Avenue #1017, Chicago",
+    "latitude": 41.9652313,
+    "longitude": -87.6556339
+  },
+  {
+    "name": "Target Grocery",
+    "address": "2650 North Clark Street, Chicago",
+    "latitude": 41.931176,
+    "longitude": -87.6446034
+  },
+  {
+    "name": "Target Grocery",
+    "address": "4466 North Broadway, Chicago",
+    "latitude": 41.963416,
+    "longitude": -87.6565512
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "3640 North Halsted Street, Chicago",
+    "latitude": 41.9483258,
+    "longitude": -87.6498127
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "3531 North Broadway, Chicago",
+    "latitude": 41.94680810000001,
+    "longitude": -87.646152
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "667 West Diversey Parkway, Chicago",
+    "latitude": 41.9324176,
+    "longitude": -87.6462646
+  },
+  {
+    "name": "ALDI",
+    "address": "4500 North Broadway, Chicago",
+    "latitude": 41.96376639999999,
+    "longitude": -87.6568743
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "4355 North Sheridan Road, Chicago",
+    "latitude": 41.96130170000001,
+    "longitude": -87.65344329999999
+  },
+  {
+    "name": "Big Apple Finer Foods",
+    "address": "2345 North Clark Street, Chicago",
+    "latitude": 41.9249488,
+    "longitude": -87.6399364
+  },
+  {
+    "name": "Belmont Harbor Market",
+    "address": "3170 North Sheridan Road, Chicago",
+    "latitude": 41.9400079,
+    "longitude": -87.63971769999999
+  },
+  {
+    "name": "Fiesta Grocery Inc",
+    "address": "4425 North Sheridan Road, Chicago",
+    "latitude": 41.9625808,
+    "longitude": -87.6545717
+  },
+  {
+    "name": "XMarket Bodega",
+    "address": "804 West Montrose Avenue, Chicago",
+    "latitude": 41.9620211,
+    "longitude": -87.65019509999999
+  },
+  {
+    "name": "XMarket Food Hall",
+    "address": "804 West Montrose Avenue, Chicago",
+    "latitude": 41.96201490000001,
+    "longitude": -87.6502464
+  },
+  {
+    "name": "Uptown Shop & Save",
+    "address": "4605 North Sheridan Road, Chicago",
+    "latitude": 41.9655709,
+    "longitude": -87.654611
+  },
+  {
+    "name": "Target Grocery",
+    "address": "3204 North Clark Street, Chicago",
+    "latitude": 41.9402515,
+    "longitude": -87.6513923
+  },
+  {
+    "name": "First Stop Food Mart",
+    "address": "4425 North Sheridan Road, Chicago",
+    "latitude": 41.9625808,
+    "longitude": -87.6545717
+  },
+  {
+    "name": "Fresh Stop Deli",
+    "address": "930 West Belmont Avenue, Chicago",
+    "latitude": 41.940189,
+    "longitude": -87.6527138
+  },
+  {
+    "name": "Fresh Stop Produce and Market",
+    "address": "930 West Belmont Avenue, Chicago",
+    "latitude": 41.9400528,
+    "longitude": -87.652709
+  },
+  {
+    "name": "Target Grocery",
+    "address": "2650 North Clark Street, Chicago",
+    "latitude": 41.931176,
+    "longitude": -87.6446034
+  },
+  {
+    "name": "Makola African Supermarket",
+    "address": "1019 West Wilson Avenue #1017, Chicago",
+    "latitude": 41.9652313,
+    "longitude": -87.6556339
+  },
+  {
+    "name": "Target Grocery",
+    "address": "4466 North Broadway, Chicago",
+    "latitude": 41.963416,
+    "longitude": -87.6565512
+  },
+  {
+    "name": "ALDI",
+    "address": "6221 North Broadway, Chicago",
+    "latitude": 41.9951665,
+    "longitude": -87.65983539999999
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "5516 North Clark Street, Chicago",
+    "latitude": 41.982806,
+    "longitude": -87.6691599
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "5343 North Broadway, Chicago",
+    "latitude": 41.9792092,
+    "longitude": -87.6593051
+  },
+  {
+    "name": "Tai Nam Food Market",
+    "address": "4925 North Broadway, Chicago",
+    "latitude": 41.97241210000001,
+    "longitude": -87.6589432
+  },
+  {
+    "name": "Edgewater Produce",
+    "address": "5515 North Clark Street, Chicago",
+    "latitude": 41.98219,
+    "longitude": -87.668245
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "6009 North Broadway, Chicago",
+    "latitude": 41.9911522,
+    "longitude": -87.6598272
+  },
+  {
+    "name": "Kukulu Market",
+    "address": "6135 North Broadway, Chicago",
+    "latitude": 41.99340589999999,
+    "longitude": -87.6601867
+  },
+  {
+    "name": "Park To Shop Supermarket",
+    "address": "4879 North Broadway, Chicago",
+    "latitude": 41.9711048,
+    "longitude": -87.65906439999999
+  },
+  {
+    "name": "Fiesta Grocery Inc",
+    "address": "4425 North Sheridan Road, Chicago",
+    "latitude": 41.9625808,
+    "longitude": -87.6545717
+  },
+  {
+    "name": "Super Food & Liquors",
+    "address": "1049 West Bryn Mawr Avenue, Chicago",
+    "latitude": 41.9835308,
+    "longitude": -87.6572262
+  },
+  {
+    "name": "Target Grocery",
+    "address": "6422 North Sheridan Road unit a, Chicago",
+    "latitude": 41.9989821,
+    "longitude": -87.6609644
+  },
+  {
+    "name": "Devon Market",
+    "address": "1440 West Devon Avenue, Chicago",
+    "latitude": 41.998324,
+    "longitude": -87.6670992
+  },
+  {
+    "name": "Uptown Shop & Save",
+    "address": "4605 North Sheridan Road, Chicago",
+    "latitude": 41.9655709,
+    "longitude": -87.654611
+  },
+  {
+    "name": "Makola African Supermarket",
+    "address": "1019 West Wilson Avenue #1017, Chicago",
+    "latitude": 41.9652313,
+    "longitude": -87.6556339
+  },
+  {
+    "name": "XMarket Bodega",
+    "address": "804 West Montrose Avenue, Chicago",
+    "latitude": 41.9620211,
+    "longitude": -87.65019509999999
+  },
+  {
+    "name": "XMarket Food Hall",
+    "address": "804 West Montrose Avenue, Chicago",
+    "latitude": 41.96201490000001,
+    "longitude": -87.6502464
+  },
+  {
+    "name": "First Stop Food Mart",
+    "address": "4425 North Sheridan Road, Chicago",
+    "latitude": 41.9625808,
+    "longitude": -87.6545717
+  },
+  {
+    "name": "ALDI",
+    "address": "6221 North Broadway, Chicago",
+    "latitude": 41.9951665,
+    "longitude": -87.65983539999999
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "5516 North Clark Street, Chicago",
+    "latitude": 41.982806,
+    "longitude": -87.6691599
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "5343 North Broadway, Chicago",
+    "latitude": 41.9792092,
+    "longitude": -87.6593051
+  },
+  {
+    "name": "Tai Nam Food Market",
+    "address": "4925 North Broadway, Chicago",
+    "latitude": 41.97241210000001,
+    "longitude": -87.6589432
+  },
+  {
+    "name": "Edgewater Produce",
+    "address": "5515 North Clark Street, Chicago",
+    "latitude": 41.98219,
+    "longitude": -87.668245
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "6009 North Broadway, Chicago",
+    "latitude": 41.9911522,
+    "longitude": -87.6598272
+  },
+  {
+    "name": "Kukulu Market",
+    "address": "6135 North Broadway, Chicago",
+    "latitude": 41.99340589999999,
+    "longitude": -87.6601867
+  },
+  {
+    "name": "Park To Shop Supermarket",
+    "address": "4879 North Broadway, Chicago",
+    "latitude": 41.9711048,
+    "longitude": -87.65906439999999
+  },
+  {
+    "name": "Super Food & Liquors",
+    "address": "1049 West Bryn Mawr Avenue, Chicago",
+    "latitude": 41.9835308,
+    "longitude": -87.6572262
+  },
+  {
+    "name": "Target Grocery",
+    "address": "6422 North Sheridan Road unit a, Chicago",
+    "latitude": 41.9989821,
+    "longitude": -87.6609644
+  },
+  {
+    "name": "Devon Market",
+    "address": "1440 West Devon Avenue, Chicago",
+    "latitude": 41.998324,
+    "longitude": -87.6670992
+  },
+  {
+    "name": "Uptown Shop & Save",
+    "address": "4605 North Sheridan Road, Chicago",
+    "latitude": 41.9655709,
+    "longitude": -87.654611
+  },
+  {
+    "name": "XMarket Bodega",
+    "address": "804 West Montrose Avenue, Chicago",
+    "latitude": 41.9620211,
+    "longitude": -87.65019509999999
+  },
+  {
+    "name": "XMarket Food Hall",
+    "address": "804 West Montrose Avenue, Chicago",
+    "latitude": 41.96201490000001,
+    "longitude": -87.6502464
+  },
+  {
+    "name": "Makola African Supermarket",
+    "address": "1019 West Wilson Avenue #1017, Chicago",
+    "latitude": 41.9652313,
+    "longitude": -87.6556339
+  },
+  {
+    "name": "ALDI",
+    "address": "6221 North Broadway, Chicago",
+    "latitude": 41.9951665,
+    "longitude": -87.65983539999999
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "5343 North Broadway, Chicago",
+    "latitude": 41.9792092,
+    "longitude": -87.6593051
+  },
+  {
+    "name": "Tai Nam Food Market",
+    "address": "4925 North Broadway, Chicago",
+    "latitude": 41.97241210000001,
+    "longitude": -87.6589432
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "6009 North Broadway, Chicago",
+    "latitude": 41.9911522,
+    "longitude": -87.6598272
+  },
+  {
+    "name": "Kukulu Market",
+    "address": "6135 North Broadway, Chicago",
+    "latitude": 41.99340589999999,
+    "longitude": -87.6601867
+  },
+  {
+    "name": "Edgewater Produce",
+    "address": "5515 North Clark Street, Chicago",
+    "latitude": 41.98219,
+    "longitude": -87.668245
+  },
+  {
+    "name": "Park To Shop Supermarket",
+    "address": "4879 North Broadway, Chicago",
+    "latitude": 41.9711048,
+    "longitude": -87.65906439999999
+  },
+  {
+    "name": "Super Food & Liquors",
+    "address": "1049 West Bryn Mawr Avenue, Chicago",
+    "latitude": 41.9835308,
+    "longitude": -87.6572262
+  },
+  {
+    "name": "Target Grocery",
+    "address": "6422 North Sheridan Road unit a, Chicago",
+    "latitude": 41.9989821,
+    "longitude": -87.6609644
+  },
+  {
+    "name": "Devon Market",
+    "address": "1440 West Devon Avenue, Chicago",
+    "latitude": 41.998324,
+    "longitude": -87.6670992
+  },
+  {
+    "name": "Uptown Shop & Save",
+    "address": "4605 North Sheridan Road, Chicago",
+    "latitude": 41.9655709,
+    "longitude": -87.654611
+  },
+  {
+    "name": "XMarket Bodega",
+    "address": "804 West Montrose Avenue, Chicago",
+    "latitude": 41.9620211,
+    "longitude": -87.65019509999999
+  },
+  {
+    "name": "XMarket Food Hall",
+    "address": "804 West Montrose Avenue, Chicago",
+    "latitude": 41.96201490000001,
+    "longitude": -87.6502464
+  },
+  {
+    "name": "Makola African Supermarket",
+    "address": "1019 West Wilson Avenue #1017, Chicago",
+    "latitude": 41.9652313,
+    "longitude": -87.6556339
+  },
+  {
+    "name": "ALDI",
+    "address": "6221 North Broadway, Chicago",
+    "latitude": 41.9951665,
+    "longitude": -87.65983539999999
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "5343 North Broadway, Chicago",
+    "latitude": 41.9792092,
+    "longitude": -87.6593051
+  },
+  {
+    "name": "Tai Nam Food Market",
+    "address": "4925 North Broadway, Chicago",
+    "latitude": 41.97241210000001,
+    "longitude": -87.6589432
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "6009 North Broadway, Chicago",
+    "latitude": 41.9911522,
+    "longitude": -87.6598272
+  },
+  {
+    "name": "Kukulu Market",
+    "address": "6135 North Broadway, Chicago",
+    "latitude": 41.99340589999999,
+    "longitude": -87.6601867
+  },
+  {
+    "name": "Park To Shop Supermarket",
+    "address": "4879 North Broadway, Chicago",
+    "latitude": 41.9711048,
+    "longitude": -87.65906439999999
+  },
+  {
+    "name": "Super Food & Liquors",
+    "address": "1049 West Bryn Mawr Avenue, Chicago",
+    "latitude": 41.9835308,
+    "longitude": -87.6572262
+  },
+  {
+    "name": "Target Grocery",
+    "address": "6422 North Sheridan Road unit a, Chicago",
+    "latitude": 41.9989821,
+    "longitude": -87.6609644
+  },
+  {
+    "name": "Devon Market",
+    "address": "1440 West Devon Avenue, Chicago",
+    "latitude": 41.998324,
+    "longitude": -87.6670992
+  },
+  {
+    "name": "Uptown Shop & Save",
+    "address": "4605 North Sheridan Road, Chicago",
+    "latitude": 41.9655709,
+    "longitude": -87.654611
+  },
+  {
+    "name": "XMarket Bodega",
+    "address": "804 West Montrose Avenue, Chicago",
+    "latitude": 41.9620211,
+    "longitude": -87.65019509999999
+  },
+  {
+    "name": "XMarket Food Hall",
+    "address": "804 West Montrose Avenue, Chicago",
+    "latitude": 41.96201490000001,
+    "longitude": -87.6502464
+  },
+  {
+    "name": "Makola African Supermarket",
+    "address": "1019 West Wilson Avenue #1017, Chicago",
+    "latitude": 41.9652313,
+    "longitude": -87.6556339
+  },
+  {
+    "name": "ALDI",
+    "address": "6221 North Broadway, Chicago",
+    "latitude": 41.9951665,
+    "longitude": -87.65983539999999
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "5343 North Broadway, Chicago",
+    "latitude": 41.9792092,
+    "longitude": -87.6593051
+  },
+  {
+    "name": "Tai Nam Food Market",
+    "address": "4925 North Broadway, Chicago",
+    "latitude": 41.97241210000001,
+    "longitude": -87.6589432
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "6009 North Broadway, Chicago",
+    "latitude": 41.9911522,
+    "longitude": -87.6598272
+  },
+  {
+    "name": "Kukulu Market",
+    "address": "6135 North Broadway, Chicago",
+    "latitude": 41.99340589999999,
+    "longitude": -87.6601867
+  },
+  {
+    "name": "Park To Shop Supermarket",
+    "address": "4879 North Broadway, Chicago",
+    "latitude": 41.9711048,
+    "longitude": -87.65906439999999
+  },
+  {
+    "name": "Super Food & Liquors",
+    "address": "1049 West Bryn Mawr Avenue, Chicago",
+    "latitude": 41.9835308,
+    "longitude": -87.6572262
+  },
+  {
+    "name": "Target Grocery",
+    "address": "6422 North Sheridan Road unit a, Chicago",
+    "latitude": 41.9989821,
+    "longitude": -87.6609644
+  },
+  {
+    "name": "Uptown Shop & Save",
+    "address": "4605 North Sheridan Road, Chicago",
+    "latitude": 41.9655709,
+    "longitude": -87.654611
+  },
+  {
+    "name": "XMarket Bodega",
+    "address": "804 West Montrose Avenue, Chicago",
+    "latitude": 41.9620211,
+    "longitude": -87.65019509999999
+  },
+  {
+    "name": "ALDI",
+    "address": "6221 North Broadway, Chicago",
+    "latitude": 41.9951665,
+    "longitude": -87.65983539999999
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "5343 North Broadway, Chicago",
+    "latitude": 41.9792092,
+    "longitude": -87.6593051
+  },
+  {
+    "name": "Tai Nam Food Market",
+    "address": "4925 North Broadway, Chicago",
+    "latitude": 41.97241210000001,
+    "longitude": -87.6589432
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "6009 North Broadway, Chicago",
+    "latitude": 41.9911522,
+    "longitude": -87.6598272
+  },
+  {
+    "name": "Kukulu Market",
+    "address": "6135 North Broadway, Chicago",
+    "latitude": 41.99340589999999,
+    "longitude": -87.6601867
+  },
+  {
+    "name": "Park To Shop Supermarket",
+    "address": "4879 North Broadway, Chicago",
+    "latitude": 41.9711048,
+    "longitude": -87.65906439999999
+  },
+  {
+    "name": "Super Food & Liquors",
+    "address": "1049 West Bryn Mawr Avenue, Chicago",
+    "latitude": 41.9835308,
+    "longitude": -87.6572262
+  },
+  {
+    "name": "Target Grocery",
+    "address": "6422 North Sheridan Road unit a, Chicago",
+    "latitude": 41.9989821,
+    "longitude": -87.6609644
+  },
+  {
+    "name": "ALDI",
+    "address": "6221 North Broadway, Chicago",
+    "latitude": 41.9951665,
+    "longitude": -87.65983539999999
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "5343 North Broadway, Chicago",
+    "latitude": 41.9792092,
+    "longitude": -87.6593051
+  },
+  {
+    "name": "Tai Nam Food Market",
+    "address": "4925 North Broadway, Chicago",
+    "latitude": 41.97241210000001,
+    "longitude": -87.6589432
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "6009 North Broadway, Chicago",
+    "latitude": 41.9911522,
+    "longitude": -87.6598272
+  },
+  {
+    "name": "Kukulu Market",
+    "address": "6135 North Broadway, Chicago",
+    "latitude": 41.99340589999999,
+    "longitude": -87.6601867
+  },
+  {
+    "name": "Park To Shop Supermarket",
+    "address": "4879 North Broadway, Chicago",
+    "latitude": 41.9711048,
+    "longitude": -87.65906439999999
+  },
+  {
+    "name": "Super Food & Liquors",
+    "address": "1049 West Bryn Mawr Avenue, Chicago",
+    "latitude": 41.9835308,
+    "longitude": -87.6572262
+  },
+  {
+    "name": "Target Grocery",
+    "address": "6422 North Sheridan Road unit a, Chicago",
+    "latitude": 41.9989821,
+    "longitude": -87.6609644
+  },
+  {
+    "name": "ALDI",
+    "address": "6221 North Broadway, Chicago",
+    "latitude": 41.9951665,
+    "longitude": -87.65983539999999
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "5343 North Broadway, Chicago",
+    "latitude": 41.9792092,
+    "longitude": -87.6593051
+  },
+  {
+    "name": "Tai Nam Food Market",
+    "address": "4925 North Broadway, Chicago",
+    "latitude": 41.97241210000001,
+    "longitude": -87.6589432
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "6009 North Broadway, Chicago",
+    "latitude": 41.9911522,
+    "longitude": -87.6598272
+  },
+  {
+    "name": "Kukulu Market",
+    "address": "6135 North Broadway, Chicago",
+    "latitude": 41.99340589999999,
+    "longitude": -87.6601867
+  },
+  {
+    "name": "Super Food & Liquors",
+    "address": "1049 West Bryn Mawr Avenue, Chicago",
+    "latitude": 41.9835308,
+    "longitude": -87.6572262
+  },
+  {
+    "name": "Target Grocery",
+    "address": "6422 North Sheridan Road unit a, Chicago",
+    "latitude": 41.9989821,
+    "longitude": -87.6609644
+  },
+  {
+    "name": "ALDI",
+    "address": "6221 North Broadway, Chicago",
+    "latitude": 41.9951665,
+    "longitude": -87.65983539999999
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "5343 North Broadway, Chicago",
+    "latitude": 41.9792092,
+    "longitude": -87.6593051
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "6009 North Broadway, Chicago",
+    "latitude": 41.9911522,
+    "longitude": -87.6598272
+  },
+  {
+    "name": "Kukulu Market",
+    "address": "6135 North Broadway, Chicago",
+    "latitude": 41.99340589999999,
+    "longitude": -87.6601867
+  },
+  {
+    "name": "Super Food & Liquors",
+    "address": "1049 West Bryn Mawr Avenue, Chicago",
+    "latitude": 41.9835308,
+    "longitude": -87.6572262
+  },
+  {
+    "name": "Target Grocery",
+    "address": "6422 North Sheridan Road unit a, Chicago",
+    "latitude": 41.9989821,
+    "longitude": -87.6609644
+  },
+  {
+    "name": "ALDI",
+    "address": "6221 North Broadway, Chicago",
+    "latitude": 41.9951665,
+    "longitude": -87.65983539999999
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "5343 North Broadway, Chicago",
+    "latitude": 41.9792092,
+    "longitude": -87.6593051
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "6009 North Broadway, Chicago",
+    "latitude": 41.9911522,
+    "longitude": -87.6598272
+  },
+  {
+    "name": "Kukulu Market",
+    "address": "6135 North Broadway, Chicago",
+    "latitude": 41.99340589999999,
+    "longitude": -87.6601867
+  },
+  {
+    "name": "Super Food & Liquors",
+    "address": "1049 West Bryn Mawr Avenue, Chicago",
+    "latitude": 41.9835308,
+    "longitude": -87.6572262
+  },
+  {
+    "name": "Target Grocery",
+    "address": "6422 North Sheridan Road unit a, Chicago",
+    "latitude": 41.9989821,
+    "longitude": -87.6609644
+  }
+]
+[
+  {
+    "name": "Potash Markets - State St",
+    "address": "875 North State Street, Chicago",
+    "latitude": 41.8987123,
+    "longitude": -87.6280792
+  },
+  {
+    "name": "Bockwinkel's",
+    "address": "320 East Ohio Street, Chicago",
+    "latitude": 41.8927663,
+    "longitude": -87.6194187
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "102 West Division Street, Chicago",
+    "latitude": 41.904091,
+    "longitude": -87.6317686
+  },
+  {
+    "name": "Potash Markets - Clark Street",
+    "address": "1525 North Clark Street, Chicago",
+    "latitude": 41.9104251,
+    "longitude": -87.6314647
+  },
+  {
+    "name": "Target Grocery",
+    "address": "401 East Illinois Street, Chicago",
+    "latitude": 41.8907947,
+    "longitude": -87.61728529999999
+  },
+  {
+    "name": "Bockwinkel's",
+    "address": "320 East Ohio Street, Chicago",
+    "latitude": 41.8927663,
+    "longitude": -87.6194187
+  },
+  {
+    "name": "Potash Markets - Clark Street",
+    "address": "1525 North Clark Street, Chicago",
+    "latitude": 41.9104251,
+    "longitude": -87.6314647
+  },
+  {
+    "name": "Target Grocery",
+    "address": "401 East Illinois Street, Chicago",
+    "latitude": 41.8907947,
+    "longitude": -87.61728529999999
+  },
+  {
+    "name": "Bockwinkel's",
+    "address": "320 East Ohio Street, Chicago",
+    "latitude": 41.8927663,
+    "longitude": -87.6194187
+  },
+  {
+    "name": "Potash Markets - Clark Street",
+    "address": "1525 North Clark Street, Chicago",
+    "latitude": 41.9104251,
+    "longitude": -87.6314647
+  },
+  {
+    "name": "Target Grocery",
+    "address": "401 East Illinois Street, Chicago",
+    "latitude": 41.8907947,
+    "longitude": -87.61728529999999
+  },
+  {
+    "name": "Potash Markets - Clark Street",
+    "address": "1525 North Clark Street, Chicago",
+    "latitude": 41.9104251,
+    "longitude": -87.6314647
+  }
+    {
+      "name": "Potash Markets - State St",
+      "address": "875 North State Street, Chicago",
+      "latitude": 41.8987123,
+      "longitude": -87.6280792
+    },
+    {
+      "name": "Bockwinkel's",
+      "address": "320 East Ohio Street, Chicago",
+      "latitude": 41.8927663,
+      "longitude": -87.6194187
+    },
+    {
+      "name": "Jewel-Osco",
+      "address": "102 West Division Street, Chicago",
+      "latitude": 41.904091,
+      "longitude": -87.6317686
+    },
+    {
+      "name": "Potash Markets - Clark Street",
+      "address": "1525 North Clark Street, Chicago",
+      "latitude": 41.9104251,
+      "longitude": -87.6314647
+    },
+    {
+      "name": "Target Grocery",
+      "address": "401 East Illinois Street, Chicago",
+      "latitude": 41.8907947,
+      "longitude": -87.61728529999999
+    },
+    {
+      "name": "Bockwinkel's",
+      "address": "320 East Ohio Street, Chicago",
+      "latitude": 41.8927663,
+      "longitude": -87.6194187
+    },
+    {
+      "name": "Potash Markets - Clark Street",
+      "address": "1525 North Clark Street, Chicago",
+      "latitude": 41.9104251,
+      "longitude": -87.6314647
+    },
+    {
+      "name": "Target Grocery",
+      "address": "401 East Illinois Street, Chicago",
+      "latitude": 41.8907947,
+      "longitude": -87.61728529999999
+    },
+    {
+      "name": "Bockwinkel's",
+      "address": "320 East Ohio Street, Chicago",
+      "latitude": 41.8927663,
+      "longitude": -87.6194187
+    },
+    {
+      "name": "Potash Markets - Clark Street",
+      "address": "1525 North Clark Street, Chicago",
+      "latitude": 41.9104251,
+      "longitude": -87.6314647
+    },
+    {
+      "name": "Target Grocery",
+      "address": "401 East Illinois Street, Chicago",
+      "latitude": 41.8907947,
+      "longitude": -87.61728529999999
+    },
+    {
+      "name": "Potash Markets - Clark Street",
+      "address": "1525 North Clark Street, Chicago",
+      "latitude": 41.9104251,
+      "longitude": -87.6314647
+    }
+
+]
