@@ -5770,9 +5770,9 @@
     "address": "6422 North Sheridan Road unit a, Chicago",
     "latitude": 41.9989821,
     "longitude": -87.6609644
-  }
-]
-[
+  },
+
+
   {
     "name": "Potash Markets - State St",
     "address": "875 North State Street, Chicago",
@@ -5844,7 +5844,7 @@
     "address": "1525 North Clark Street, Chicago",
     "latitude": 41.9104251,
     "longitude": -87.6314647
-  }
+  },
     {
       "name": "Potash Markets - State St",
       "address": "875 North State Street, Chicago",
@@ -5917,5 +5917,4 @@
       "latitude": 41.9104251,
       "longitude": -87.6314647
     }
-
 ]
