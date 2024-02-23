@@ -6,7 +6,7 @@ from geopy.geocoders import Nominatim
 
 
 
-api_key = 'AIzaSyBUvP_IQ_aXeRIg9KzK12oGadcgQ3o8nKE'
+api_key = ''#get key from github secrets
 gmaps = googlemaps.Client(key=api_key)
 
 # Specify the location (Chicago) and the type of place (grocery_store)
