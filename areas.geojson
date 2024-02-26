@@ -1,0 +1,1097 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Layer":"",
+    "Name":"",
+    "GEOID":null,
+    "Population":null,
+    "LFA_2019":"Low food access (% of residents), 2019"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.67017100,42.00963000 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Rogers Park",
+    "GEOID":1,
+    "Population":55454,
+    "LFA_2019":"5.67896156655646"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.80345100,41.98524800 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Norwood Park",
+    "GEOID":10,
+    "Population":41069,
+    "LFA_2019":"57.982295050679"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.77116500,41.97883600 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Jefferson Park",
+    "GEOID":11,
+    "Population":26201,
+    "LFA_2019":"9.38820742416371"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.75835800,41.99393800 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Forest Glen",
+    "GEOID":12,
+    "Population":19579,
+    "LFA_2019":"17.5198845533823"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.72357800,41.98365100 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"North Park",
+    "GEOID":13,
+    "Population":17522,
+    "LFA_2019":"76.7781154091305"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.72155800,41.96807800 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Albany Park",
+    "GEOID":14,
+    "Population":48549,
+    "LFA_2019":"3.89779136284278"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.76340100,41.95404300 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Portage Park",
+    "GEOID":15,
+    "Population":63038,
+    "LFA_2019":"24.8257787002095"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.72345700,41.95358900 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Irving Park",
+    "GEOID":16,
+    "Population":51911,
+    "LFA_2019":"15.2155990232583"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.80601500,41.94652200 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Dunning",
+    "GEOID":17,
+    "Population":43120,
+    "LFA_2019":"47.3604793817543"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.79803300,41.92930600 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Montclare",
+    "GEOID":18,
+    "Population":14412,
+    "LFA_2019":"0.0758252634643147"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.76550200,41.92727500 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Belmont Cragin",
+    "GEOID":19,
+    "Population":78151,
+    "LFA_2019":"0.00970678455631717"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.69501700,42.00158300 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"West Ridge",
+    "GEOID":2,
+    "Population":77139,
+    "LFA_2019":"9.32642202852269"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.73474100,41.92435300 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Hermosa",
+    "GEOID":20,
+    "Population":24127,
+    "LFA_2019":"0.00156022376168676"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.71121900,41.93867300 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Avondale",
+    "GEOID":21,
+    "Population":36245,
+    "LFA_2019":"0.00858381841740546"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.69914900,41.92276800 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Logan Square",
+    "GEOID":22,
+    "Population":71742,
+    "LFA_2019":"0.0104765477811148"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.72091700,41.90008000 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Humboldt Park",
+    "GEOID":23,
+    "Population":53832,
+    "LFA_2019":"16.4262630325303"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.67635800,41.90121600 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"West Town",
+    "GEOID":24,
+    "Population":87942,
+    "LFA_2019":"0.61131394991469"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.76311700,41.89411300 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Austin",
+    "GEOID":25,
+    "Population":96753,
+    "LFA_2019":"32.4076171323229"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.73023300,41.87860200 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"West Garfield Park",
+    "GEOID":26,
+    "Population":17423,
+    "LFA_2019":"0.0501227301129808"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.70589200,41.87892300 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"East Garfield Park",
+    "GEOID":27,
+    "Population":19995,
+    "LFA_2019":"52.3356796509787"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.66351300,41.87401600 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Near West Side",
+    "GEOID":28,
+    "Population":67817,
+    "LFA_2019":"16.3899040761542"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.71721800,41.86019700 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"North Lawndale",
+    "GEOID":29,
+    "Population":34817,
+    "LFA_2019":"22.3385451747269"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.65589900,41.96582200 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Uptown",
+    "GEOID":3,
+    "Population":55120,
+    "LFA_2019":"0.0159164152685014"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.71400000,41.83909100 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"South Lawndale",
+    "GEOID":30,
+    "Population":71402,
+    "LFA_2019":"4.79340288387538"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.66757000,41.85027700 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Lower West Side",
+    "GEOID":31,
+    "Population":33716,
+    "LFA_2019":"12.095452726842"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.62519400,41.87888100 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Loop",
+    "GEOID":32,
+    "Population":43440,
+    "LFA_2019":"0.00345935920243558"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.62034400,41.85719600 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Near South Side",
+    "GEOID":33,
+    "Population":27296,
+    "LFA_2019":"3.93455820464246"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.63397600,41.84208300 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Armour Square",
+    "GEOID":34,
+    "Population":13847,
+    "LFA_2019":"18.8411405047685"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.61868000,41.83512200 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Douglas",
+    "GEOID":35,
+    "Population":20292,
+    "LFA_2019":"36.5810693577971"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.60321700,41.82375400 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Oakland",
+    "GEOID":36,
+    "Population":6803,
+    "LFA_2019":"7.80366305227681"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.63242700,41.80908200 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Fuller Park",
+    "GEOID":37,
+    "Population":2549,
+    "LFA_2019":"97.1012332518511"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.61786000,41.81294700 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Grand Boulevard",
+    "GEOID":38,
+    "Population":24586,
+    "LFA_2019":"10.537804854067"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.59618600,41.80891800 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Kenwood",
+    "GEOID":39,
+    "Population":19126,
+    "LFA_2019":"5.7702614420898"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.68751300,41.97518200 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Lincoln Square",
+    "GEOID":4,
+    "Population":40412,
+    "LFA_2019":"7.90276170553888"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.61793600,41.79235600 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Washington Park",
+    "GEOID":40,
+    "Population":12709,
+    "LFA_2019":"65.4569603204927"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.59230500,41.79408800 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Hyde Park",
+    "GEOID":41,
+    "Population":29459,
+    "LFA_2019":"12.3591156858882"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.59492400,41.77887700 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Woodlawn",
+    "GEOID":42,
+    "Population":25285,
+    "LFA_2019":"36.9212547535005"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.57279000,41.76158300 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"South Shore",
+    "GEOID":43,
+    "Population":51919,
+    "LFA_2019":"57.5959879762995"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.61596500,41.74020600 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Chatham",
+    "GEOID":44,
+    "Population":31804,
+    "LFA_2019":"55.0562111666794"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.58634700,41.74419700 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Avalon Park",
+    "GEOID":45,
+    "Population":9359,
+    "LFA_2019":"19.1656069037685"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.55143500,41.74124300 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"South Chicago",
+    "GEOID":46,
+    "Population":27254,
+    "LFA_2019":"25.3540326101423"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.59647000,41.72818100 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Burnside",
+    "GEOID":47,
+    "Population":2514,
+    "LFA_2019":"94.2531011377957"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.57272000,41.72967300 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Calumet Heights",
+    "GEOID":48,
+    "Population":13085,
+    "LFA_2019":"40.1176905110561"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.62336600,41.70658800 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Roseland",
+    "GEOID":49,
+    "Population":38934,
+    "LFA_2019":"66.6029013129088"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.68383900,41.94781100 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"North Center",
+    "GEOID":5,
+    "Population":35150,
+    "LFA_2019":"15.9023273001898"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.59825200,41.70613100 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Pullman",
+    "GEOID":50,
+    "Population":6866,
+    "LFA_2019":"77.8757988533393"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.57005800,41.69063900 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"South Deering",
+    "GEOID":51,
+    "Population":14125,
+    "LFA_2019":"70.7701693258621"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.53490700,41.70730600 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"East Side",
+    "GEOID":52,
+    "Population":21787,
+    "LFA_2019":"23.527644813033"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.63574500,41.67382000 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"West Pullman",
+    "GEOID":53,
+    "Population":25940,
+    "LFA_2019":"63.6690448179955"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.60284900,41.66013700 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Riverdale",
+    "GEOID":54,
+    "Population":7229,
+    "LFA_2019":"99.8478604652979"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.55680300,41.66818800 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Hegewisch",
+    "GEOID":55,
+    "Population":9884,
+    "LFA_2019":"30.8941740962106"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.76424600,41.79618500 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Garfield Ridge",
+    "GEOID":56,
+    "Population":35352,
+    "LFA_2019":"47.7369888879815"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.72636500,41.81087300 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Archer Heights",
+    "GEOID":57,
+    "Population":14282,
+    "LFA_2019":"0.584612868227603"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.69885900,41.81736400 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Brighton Park",
+    "GEOID":58,
+    "Population":45141,
+    "LFA_2019":"17.5886856693077"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.67250000,41.82992700 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"McKinley Park",
+    "GEOID":59,
+    "Population":15927,
+    "LFA_2019":"3.39383263658513"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.65600100,41.94423600 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Lake View",
+    "GEOID":6,
+    "Population":103048,
+    "LFA_2019":"5.19481248042596"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.64878400,41.83615100 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Bridgeport",
+    "GEOID":60,
+    "Population":33593,
+    "LFA_2019":"35.0811113563643"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.65917100,41.80901700 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"New City",
+    "GEOID":61,
+    "Population":43510,
+    "LFA_2019":"21.3747748946289"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.72421300,41.79297700 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"West Elsdon",
+    "GEOID":62,
+    "Population":18249,
+    "LFA_2019":"23.4935225660495"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.69643300,41.79542900 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Gage Park",
+    "GEOID":63,
+    "Population":39439,
+    "LFA_2019":"20.8708077124487"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.76851700,41.77958200 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Clearing",
+    "GEOID":64,
+    "Population":24519,
+    "LFA_2019":"49.1477609721487"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.72692700,41.76977400 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"West Lawn",
+    "GEOID":65,
+    "Population":33543,
+    "LFA_2019":"33.4765732598414"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.69566700,41.77184900 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Chicago Lawn",
+    "GEOID":66,
+    "Population":55789,
+    "LFA_2019":"27.0809916982636"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.66659800,41.77592600 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"West Englewood",
+    "GEOID":67,
+    "Population":29899,
+    "LFA_2019":"63.5006602236881"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.64250200,41.77720100 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Englewood",
+    "GEOID":68,
+    "Population":24322,
+    "LFA_2019":"22.2534617002075"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.61613900,41.76325100 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Greater Grand Crossing",
+    "GEOID":69,
+    "Population":31543,
+    "LFA_2019":"10.5555862885626"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.64949100,41.92269600 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Lincoln Park",
+    "GEOID":7,
+    "Population":70425,
+    "LFA_2019":"4.68280359213997"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.70836300,41.74575600 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Ashburn",
+    "GEOID":70,
+    "Population":41280,
+    "LFA_2019":"68.2132581272332"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.65630500,41.74420300 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Auburn Gresham",
+    "GEOID":71,
+    "Population":44959,
+    "LFA_2019":"25.2419026015466"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.67507200,41.71314800 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Beverly",
+    "GEOID":72,
+    "Population":19950,
+    "LFA_2019":"50.254538522419"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.64889700,41.71749500 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Washington Heights",
+    "GEOID":73,
+    "Population":25075,
+    "LFA_2019":"64.8556030826281"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.71318900,41.69487600 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Mount Greenwood",
+    "GEOID":74,
+    "Population":18633,
+    "LFA_2019":"62.7846679184914"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.66906200,41.68972900 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Morgan Park",
+    "GEOID":75,
+    "Population":21714,
+    "LFA_2019":"32.3508556614186"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.89369900,41.97569600 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"O'Hare",
+    "GEOID":76,
+    "Population":14416,
+    "LFA_2019":"75.7712840549324"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.66341900,41.98671900 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Edgewater",
+    "GEOID":77,
+    "Population":56308,
+    "LFA_2019":"0.00151651223009447"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.63331800,41.89961100 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Near North Side",
+    "GEOID":8,
+    "Population":97789,
+    "LFA_2019":"0.00347276661890658"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.81378000,42.00762700 ]
+    },
+    "properties": {
+    "Layer":"Community area",
+    "Name":"Edison Park",
+    "GEOID":9,
+    "Population":11521,
+    "LFA_2019":"26.3903188152609"
+    }
+  }
+]
+}
