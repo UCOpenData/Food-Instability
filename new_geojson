@@ -1,0 +1,993 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Whole Foods Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6385339,
+                    41.86862259999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trader Joe's"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6262507,
+                    41.893436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trader Joe's"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6253941,
+                    41.8677418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.62858399999999,
+                    41.89228949999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6449859,
+                    41.8887205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Whole Foods Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.65264119999999,
+                    41.9086787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "South Loop Market - Van Buren"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6349331,
+                    41.8765826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6663427,
+                    41.89580279999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bockwinkel's"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.62213919999999,
+                    41.88668119999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Potash Markets - State St"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6280792,
+                    41.8987123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "South Loop Market - Michigan Ave"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6241136,
+                    41.8584799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Whole Foods Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.620426,
+                    41.8911648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bockwinkel's"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6194187,
+                    41.8927663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "South Loop Market - 9th Street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6270708,
+                    41.8708216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6262491,
+                    41.866463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Whole Foods Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6469767,
+                    41.8821688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6399149,
+                    41.8641785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6317686,
+                    41.904091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.63966119999999,
+                    41.9048762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "South Loop Market - Cermak"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.62359819999999,
+                    41.8531859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Park To Shop Supermarket (Hong Kong Market)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6409201,
+                    41.84856159999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Best Choice Oriental Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6317918,
+                    41.8489913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Potash Markets - Clark Street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6314647,
+                    41.9104251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "South Loop Marketplace"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6403247,
+                    41.865654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Target Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.62741899999999,
+                    41.8817753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Target Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.61728529999999,
+                    41.8907947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Target Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6310987,
+                    41.8682545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Whole Foods Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.62864789999999,
+                    41.8965025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stop & Shop Grocery Store"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.63832239999999,
+                    41.910747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6347542,
+                    41.90360949999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Target Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6554927,
+                    41.8770351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "L'afrique Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6267532,
+                    41.85512969999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Target Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.644284,
+                    41.90435009999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Park To Shop Supermarket"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.63840479999999,
+                    41.8565692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tai Wah Grocery Store"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.632227,
+                    41.852064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "88 Marketplace"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.64159219999999,
+                    41.85391850000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rong Shing Hong"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6317251,
+                    41.8496798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Miranda's Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.65302899999999,
+                    41.8565239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Silver State City Food Co"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6320832,
+                    41.84845219999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FreshMart"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.64174890000001,
+                    41.8488483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trader Joe's"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6549833,
+                    41.9144861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trader Joe's"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6462646,
+                    41.9324176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.646152,
+                    41.94680810000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Big Apple Finer Foods"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6399364,
+                    41.9249488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Carnival Foods"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.64079290000001,
+                    41.92021510000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6551582,
+                    41.9145652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Belmont Harbor Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.63971769999999,
+                    41.9400079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Target Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.64262839999999,
+                    41.9216626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Target Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6446034,
+                    41.931176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wild Fork"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.65362689999999,
+                    41.91051599999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Target Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6513923,
+                    41.9402515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fresh Stop Produce and Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.652709,
+                    41.9400528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fresh Stop Deli"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6527138,
+                    41.940189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Carnicerias Guanajuato"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6679754,
+                    41.9081507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Whole Foods Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6498127,
+                    41.9483258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6568743,
+                    41.96376639999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6643538,
+                    41.9481402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.65344329999999,
+                    41.96130170000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tai Nam Food Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6589432,
+                    41.97241210000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fiesta Grocery Inc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6545717,
+                    41.9625808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Park To Shop Supermarket"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.65906439999999,
+                    41.9711048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Uptown Shop & Save"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.654611,
+                    41.9655709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "XMarket Bodega"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.65019509999999,
+                    41.9620211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "XMarket Food Hall"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6502464,
+                    41.96201490000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Makola African Supermarket"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6556339,
+                    41.9652313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "First Stop Food Mart"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6545717,
+                    41.9625808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Target Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6565512,
+                    41.963416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.65983539999999,
+                    41.9951665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6691599,
+                    41.982806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6593051,
+                    41.9792092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Edgewater Produce"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.668245,
+                    41.98219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Whole Foods Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6598272,
+                    41.9911522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kukulu Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6601867,
+                    41.99340589999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Super Food & Liquors"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6572262,
+                    41.9835308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Target Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6609644,
+                    41.9989821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Devon Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6670992,
+                    41.998324
+                ]
+            }
+        }
+    ]
+}
