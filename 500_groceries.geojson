@@ -1,0 +1,6349 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5078948,
+                    41.6333204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.51817779999999,
+                    41.64625029999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fuerte Meat Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5168174,
+                    41.64415630000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5515472,
+                    41.6532319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Key Food & Liquor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.617007,
+                    41.6521347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fairway Finer Foods"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6169996,
+                    41.6342958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6288955,
+                    41.63393900000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6592952,
+                    41.6568619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Danny's Market Place"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.67001499999999,
+                    41.6554776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6802118,
+                    41.6556493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Supermercado El Ed\u00e9n"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.67046619999999,
+                    41.6558018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rosie's Abarrotes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.68006489999999,
+                    41.6298417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.719426,
+                    41.6293927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Save A Lot"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7191378,
+                    41.6307437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7401039,
+                    41.6548759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Target Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7464798,
+                    41.6568608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.794681,
+                    41.6590691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8524851,
+                    41.6509708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.85628690000001,
+                    41.6535316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.66127949999999,
+                    41.6643551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.64339090000001,
+                    41.6770582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6797899,
+                    41.6711189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6645535,
+                    41.6802451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "El Ranchito Market Inc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6804258,
+                    41.661493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6811501,
+                    41.6784464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.72064809999999,
+                    41.6735389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7178526,
+                    41.67400809999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7188618,
+                    41.6695892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tobacco Discount"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.79863809999999,
+                    41.67637130000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Strack & Van Til"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.508971,
+                    41.6806209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pete's Fresh Market #5 - 118th & Ave O"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.53875099999999,
+                    41.682144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6431654,
+                    41.68366959999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6212218,
+                    41.6859026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6633147,
+                    41.689409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fairplay Foods"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.68031669999999,
+                    41.6915627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.70230939999999,
+                    41.683027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7402238,
+                    41.6877371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fairplay Foods"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7854594,
+                    41.69088410000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7865937,
+                    41.6908299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MAYO ORIENTAL STORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7978667,
+                    41.6869343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Alamal Supermarket"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7971469,
+                    41.69756479999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5257601,
+                    41.7034698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "La Cienega Super Food Inc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.535467,
+                    41.6998016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5275999,
+                    41.7030331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "El Tapatio"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.53544749999999,
+                    41.7081296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Torrance Food Mart"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5597805,
+                    41.70264899999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6206918,
+                    41.7078424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.64339090000001,
+                    41.7066248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "County Fair Foods"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6816877,
+                    41.6968303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6998763,
+                    41.706863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7373411,
+                    41.70662979999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.75937309999999,
+                    41.7037819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Thamar Supermarket"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.77788369999999,
+                    41.7117025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pete's Fresh Market #11 - Bridgeview"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.80048049999999,
+                    41.7049899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shu Fee Ma Fee"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8177022,
+                    41.70475319999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lily's Supermarket"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5350187,
+                    41.7159783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5667186,
+                    41.7222008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5509036,
+                    41.7298548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "First Choice Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.55035559999999,
+                    41.729917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.56802580000002,
+                    41.72219099999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.58271189999999,
+                    41.7205224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.62674539999999,
+                    41.7220052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6633909,
+                    41.7229691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6540136,
+                    41.7210166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.68663459999999,
+                    41.71973089999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Meijer"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.68505019999999,
+                    41.72475189999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Whole Foods Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6845802,
+                    41.7177779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pete's Fresh Market #8 - Evergreen Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7146818,
+                    41.7210326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7221072,
+                    41.7211296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Amazon Fresh"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.723008,
+                    41.7193881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Target Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7256314,
+                    41.721167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fairplay Foods"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.74352619999999,
+                    41.7340497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7788652,
+                    41.7316906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.782403,
+                    41.71624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.77045749999999,
+                    41.73441109999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shop & Save Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.797505,
+                    41.7303031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Aden Supermarket"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7992957,
+                    41.7266809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Al-Amal Supermarket & Bakery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8021041,
+                    41.732771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Joe & Frank's"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7807,
+                    41.7331222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fairplay Foods"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8341524,
+                    41.7171941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8204255,
+                    41.71744249999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pete's Produce"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5865761,
+                    41.7367317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5847459,
+                    41.732995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "HAPPY HOUR MARKET"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5830192,
+                    41.7370561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5861534,
+                    41.7450967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.56671659999999,
+                    41.7520156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.61532729999999,
+                    41.7367009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Food Town Supermarket"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6013397,
+                    41.75104019999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6278804,
+                    41.7351366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6324417,
+                    41.7393563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.61206109999999,
+                    41.7514395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6286568,
+                    41.7519598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6535962,
+                    41.73608419999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6442775,
+                    41.74789269999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6630065,
+                    41.7495175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6746793,
+                    41.75002560000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7039779,
+                    41.73404539999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7404682,
+                    41.74059010000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "El Ranchito Food"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.721105,
+                    41.74142009999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.74241699999999,
+                    41.7472786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.74238419999999,
+                    41.7462803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Halal Food \u2022 \u062d\u0644\u0627\u0644 \u0641\u0648\u062f"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7610536,
+                    41.7484128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.801283,
+                    41.749464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rasheed Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.80282509999999,
+                    41.7347567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Al-Aqsa Supermarket"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7986685,
+                    41.73616119999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Al Hayba Supermarket, Inc."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.81925199999999,
+                    41.73834199999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AlYasmeen Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8192057,
+                    41.7383995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Justice Fresh Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8192443,
+                    41.7393386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5591115,
+                    41.75212919999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Elbarakah Super Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5610406,
+                    41.7636883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.587817,
+                    41.7525337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5876613,
+                    41.7582907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.57168990000001,
+                    41.76597960000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gas Food Mart"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5770636,
+                    41.7590314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jordan Valley Foods"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.57641339999999,
+                    41.7626134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.58646209999999,
+                    41.7572275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zee's SuperMarket Plus"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5867048,
+                    41.7612132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.62440409999999,
+                    41.760386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6227318,
+                    41.7652976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A&J FOOD MARKET"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.63360639999999,
+                    41.7581861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Walmart Neighborhood Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6631991,
+                    41.7563997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6640029,
+                    41.7598835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6643799,
+                    41.7698803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.68857679999999,
+                    41.76488750000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "El Ranchito Market Carniceria y Fruteria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7201876,
+                    41.764376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7430794,
+                    41.7669106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cermak Produce"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7426957,
+                    41.76140089999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Target Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7434226,
+                    41.7631271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6053908,
+                    41.7745183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6054601,
+                    41.7790865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Parkway Supermarket"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6154061,
+                    41.7773574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6069806,
+                    41.7842673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6405144,
+                    41.78037150000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.64366079999999,
+                    41.7739901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.68300479999999,
+                    41.7837993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.68391729999999,
+                    41.77677199999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sumood Supermarket"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.685231,
+                    41.77910949999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6651651,
+                    41.7864803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "M & M Food & Liquor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.664756,
+                    41.786509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rio Valley Market Chicago"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7064031,
+                    41.7787415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "La Tortilla Supermercado"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6834394,
+                    41.7860044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7230337,
+                    41.773682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "La Palma Supermercado"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7214322,
+                    41.7784821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "K-Buena Supermarket"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.73092419999999,
+                    41.77156919999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pete's Fresh Market #4 - West Lawn Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7233646,
+                    41.78663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Los Cuates Mercado"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7361114,
+                    41.7711114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.76468609999999,
+                    41.7777804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fair Share"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7822612,
+                    41.77834259999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Florida Fruit Juices"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.79658049999999,
+                    41.7788881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "La Esperanza Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8129417,
+                    41.77941939999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Whole Foods Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.58808259999999,
+                    41.80180319999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trader Joe's"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.58838399999999,
+                    41.79639600000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hyde Park Produce Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.59548050000001,
+                    41.800011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Valley of Jordan Food"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.60085869999999,
+                    41.7992761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Target Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5935196,
+                    41.7998102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6303028,
+                    41.7957561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Michigan Food Center Inc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6222404,
+                    41.79324829999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6851686,
+                    41.8013638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7057294,
+                    41.803228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pete's Fresh Market #1 - 57th & Kedzie"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7037864,
+                    41.7888083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Supermercado El Centro"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.703609,
+                    41.799158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.705339,
+                    41.8030339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "algooe LLC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6978427,
+                    41.79689209999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rosa's Supermarket"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7070397,
+                    41.7937275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cermak Produce"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7250651,
+                    41.7975812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.72506399999999,
+                    41.7958912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Carnicer\u00eda La Hacienda"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.72646449999999,
+                    41.8014889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Supermercado Rivera"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.732095,
+                    41.80056039999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shop & Save Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7596732,
+                    41.7958431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7703682,
+                    41.7938047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7739888,
+                    41.7942136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8007227,
+                    41.7916627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Target Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8595792,
+                    41.78088219999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "One Stop Food & Liquors"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5982571,
+                    41.8162115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6063152,
+                    41.8141303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "King Supermarket"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.61628999999999,
+                    41.8204704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6629001,
+                    41.809417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fairplay Foods"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6472714,
+                    41.8102662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.647026,
+                    41.8095741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Supermercados El G\u00fcero"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.66757109999999,
+                    41.8083537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Oni Atare Foods"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6599109,
+                    41.8067429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "La Internacional Supermercado"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6652967,
+                    41.8105649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Super Mercado La Raza"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.66669069999999,
+                    41.8083084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Super Carniceria El Pollo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.68679739999999,
+                    41.8085037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Supermercado Mi Barrio"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.686916,
+                    41.8139645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pete's Fresh Market #2 - 47th & Kedzie"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7051687,
+                    41.8078239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Super Mercados El G\u00fcero y M\u00e9xico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6941408,
+                    41.8199309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "La Palma Supermercado"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.69815009999999,
+                    41.817496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "La Gloria Super Mercado"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.70423699999999,
+                    41.8183051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Carniceria Y Fruteria Los Altos"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6993921,
+                    41.8207517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7232787,
+                    41.8100507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pete's Fresh Market #3 - 43rd & Pulaski"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7225335,
+                    41.8137857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Target Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.72192,
+                    41.8124223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Los Primos Fresh Market & Taqueria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.74703699999999,
+                    41.8074016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8043567,
+                    41.8207256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8012571,
+                    41.8206026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Berwyn Fruit Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.80232749999999,
+                    41.8224019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.834508,
+                    41.8151375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.61483710000002,
+                    41.83304039999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cermak Fresh Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.645949,
+                    41.8389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6459634,
+                    41.8316528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Martinez Supermarket"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.65092,
+                    41.834673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cermak Fresh Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.67618399999999,
+                    41.830928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6827479,
+                    41.8277693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Target Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6743175,
+                    41.83615930000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nu\u00f1ez wholesale Inc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6835416,
+                    41.8350995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7056491,
+                    41.8382567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Anthony Supermarket"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6945598,
+                    41.8284489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "El Progresso Supermarket"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.72331299999999,
+                    41.836672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rigos Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7173968,
+                    41.8389706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Memo Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7472494,
+                    41.83651890000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Target Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.740961,
+                    41.8394839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "El Porvenir"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.75405769999999,
+                    41.8376141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Carniceria El Novillo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7630853,
+                    41.8288041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Supermercado Sanchez"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.77175950000002,
+                    41.8291087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Familia Fresh Market Berwyn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7930026,
+                    41.8320951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Riverside Foods"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8175442,
+                    41.8287101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tischler Finer Foods"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.850246,
+                    41.829136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "South Loop Market - Michigan Ave"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6241136,
+                    41.8584799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Park To Shop Supermarket (Hong Kong Market)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6409201,
+                    41.84856159999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Best Choice Oriental Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6317918,
+                    41.8489913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "South Loop Market - Cermak"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.62359819999999,
+                    41.8531859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Starlight Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.63215140000001,
+                    41.841644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Silver State City Food Co"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6320832,
+                    41.84845219999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rong Shing Hong"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6317251,
+                    41.8496798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tai Wah Grocery Store"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.632227,
+                    41.852064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "L'afrique Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6267532,
+                    41.85512969999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FreshMart"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.64174890000001,
+                    41.8488483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "88 Marketplace"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.64159219999999,
+                    41.85391850000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Miranda's Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.65302899999999,
+                    41.8565239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Park To Shop Supermarket"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.63840479999999,
+                    41.8565692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6701428,
+                    41.85159249999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cermak Fresh Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.669281,
+                    41.85168099999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fairplay Foods"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6870258,
+                    41.8514107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pete's Fresh Market #6 - Cermak & Rockwell"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6894883,
+                    41.853308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6688479,
+                    41.85800020000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "La Casa Del Pueblo Supermarket"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6618348,
+                    41.857445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Super Mercados El G\u00fcero cermak"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6790314,
+                    41.8518562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "La Familia Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.68327719999999,
+                    41.8503632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Super Mercado Gonzalez"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6806472,
+                    41.8531617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Walmart Neighborhood Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.68997259999999,
+                    41.8505547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7163735,
+                    41.84456110000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Food Market La Chiquita & Taqueria La Chiquita"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7146099,
+                    41.8441415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cermak Fresh Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.708327,
+                    41.843902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sucursal De Iguala Guerrero"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6936965,
+                    41.8520484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Super Mercado Guerrero"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.70306389999999,
+                    41.8519466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Supermercado Zacatecas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.707138,
+                    41.85149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7241779,
+                    41.85036209999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cermak Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7294982,
+                    41.8517101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Food Market La Chiquita"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.72419219999999,
+                    41.8433525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7404629,
+                    41.8516822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Food Market La Chiquita"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7475164,
+                    41.851577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cermak Fresh Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.740372,
+                    41.850488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Torres Fresh Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.75715249999999,
+                    41.8459523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Central Park Foods Inc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7403719,
+                    41.85048829999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Super Mercado Trejo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7633717,
+                    41.8484306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Supermercado 22nd Street Produce"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.766173,
+                    41.85133039999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.77641009999999,
+                    41.8504997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SUPER MERCADO ROSSYS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7750624,
+                    41.8436253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Supermercado Chapala"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7718232,
+                    41.85067129999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Torres Fresh Market - BERWYN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7794316,
+                    41.8435478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Super Mercado Sanchez"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7810674,
+                    41.8436396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Valle's Produce"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7819584,
+                    41.85031129999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Amazon Fresh"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.80424649999999,
+                    41.8475832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8105421,
+                    41.8498634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.844517,
+                    41.8506252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Target Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8508318,
+                    41.8550927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Whole Foods Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6385339,
+                    41.86862259999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trader Joe's"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6253941,
+                    41.8677418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6262491,
+                    41.866463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "South Loop Market - 9th Street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6270708,
+                    41.8708216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6399149,
+                    41.8641785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "South Loop Marketplace"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6403247,
+                    41.865654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Target Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6310987,
+                    41.8682545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "South Loop Market - Van Buren"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6349331,
+                    41.8765826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.668622,
+                    41.86591629999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Target Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6554927,
+                    41.8770351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7050213,
+                    41.875317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7649071,
+                    41.867234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Super Espiga"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.74810339999999,
+                    41.8623564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.766431,
+                    41.8663617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rosalinda Supermercado"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.77275379999999,
+                    41.8656215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8006022,
+                    41.8652249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Carnival Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7938827,
+                    41.8732958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Living Fresh Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8120048,
+                    41.8638448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Heaven Quarters"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8489237,
+                    41.87525540000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trader Joe's"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6262507,
+                    41.893436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.62858399999999,
+                    41.89228949999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bockwinkel's"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.62213919999999,
+                    41.88668119999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Whole Foods Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.620426,
+                    41.8911648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bockwinkel's"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6194187,
+                    41.8927663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Target Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.62741899999999,
+                    41.8817753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Target Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.61728529999999,
+                    41.8907947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6449859,
+                    41.8887205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Whole Foods Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6469767,
+                    41.8821688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6663427,
+                    41.89580279999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1 Stop Market, Smoke Shop & Grill"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.680584,
+                    41.8832327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pete's Fresh Market #10 -Madison & Western"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.685599,
+                    41.880507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chris pserasa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6934398,
+                    41.8953734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "African Food & Liquor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7304288,
+                    41.8808591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.73236949999999,
+                    41.8803256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.755324,
+                    41.87908760000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Leamington Foods"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7637104,
+                    41.8799295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "More For Less!"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7478452,
+                    41.894845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.786446,
+                    41.8800865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pete's Fresh Market #12 - Oak Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7825052,
+                    41.88785669999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7611881,
+                    41.8951854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Whole Foods Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.80626409999999,
+                    41.887377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trader Joe's"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.80478959999999,
+                    41.8902787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Target Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.80375769999999,
+                    41.8882397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wild Fork"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.80478629999999,
+                    41.8884148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8133331,
+                    41.88780239999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8458299,
+                    41.87909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Potash Markets - State St"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6280792,
+                    41.8987123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6317686,
+                    41.904091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.63966119999999,
+                    41.9048762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Potash Markets - Clark Street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6314647,
+                    41.9104251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Whole Foods Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.62864789999999,
+                    41.8965025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6347542,
+                    41.90360949999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Whole Foods Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.65264119999999,
+                    41.9086787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stop & Shop Grocery Store"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.63832239999999,
+                    41.910747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Target Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.644284,
+                    41.90435009999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wild Fork"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.65362689999999,
+                    41.91051599999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Garden Gourmet Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.66776540000001,
+                    41.9024609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.66944629999999,
+                    41.9064754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Olivia's Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6781159,
+                    41.9124941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Carnicerias Guanajuato"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6679754,
+                    41.9081507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Target Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.67011769999999,
+                    41.9035579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Municipal Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6915638,
+                    41.9027517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7084473,
+                    41.8967429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cermak Produce"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6948828,
+                    41.909944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.69470489999999,
+                    41.9031758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.69558699999999,
+                    41.9105148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.70769519999999,
+                    41.9099356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Carniceria y taqueria tierra caliente"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.70985139999999,
+                    41.91040220000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "North Pulaski Fresh Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7234168,
+                    41.910076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mel Bay Grocery & Deli"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.73623950000001,
+                    41.8996197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Carnicerias Jimenez"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.73160209999999,
+                    41.9099715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7267275,
+                    41.9056723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "La Esmeralda Corp FRESH MARKET, Ecuadorian"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.72599079999999,
+                    41.89925960000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7366206,
+                    41.907172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ecuadorian Food Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.75100719999999,
+                    41.90248529999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tienda Ecuatoriana Two Brother's"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.75681999999999,
+                    41.909183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7648708,
+                    41.9019331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fresh Thyme Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8127734,
+                    41.9084155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Carnicerias Jimenez"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.85639669999999,
+                    41.8939619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Super Mercado Torres"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8568458,
+                    41.8921108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8491607,
+                    41.9098876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.84280729999999,
+                    41.9070678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Target Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8434642,
+                    41.90520389999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Big Apple Finer Foods"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6399364,
+                    41.9249488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Carnival Foods"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.64079290000001,
+                    41.92021510000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Target Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.64262839999999,
+                    41.9216626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trader Joe's"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6549833,
+                    41.9144861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trader Joe's"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6462646,
+                    41.9324176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6551582,
+                    41.9145652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Target Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6446034,
+                    41.931176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.681719,
+                    41.91339900000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6747807,
+                    41.92859929999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.674309,
+                    41.9272358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fresh Thyme Farmers Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.68102909999999,
+                    41.9266127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fresh Market Place"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.68771459999999,
+                    41.9209888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Target Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6850894,
+                    41.9284806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Foodsmart"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.69974069999999,
+                    41.9171918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Armitage Produce"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7113578,
+                    41.91758209999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rico Fresh Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7157154,
+                    41.91740089999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Target Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7024538,
+                    41.9258607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7287719,
+                    41.92867199999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Carnicerias Jimenez"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7237167,
+                    41.924694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Adrian's Food Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.71983259999999,
+                    41.9322248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cermak Produce #2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7366301,
+                    41.9167908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.71360589999999,
+                    41.9316963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7250208,
+                    41.9248343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "International Foods Inc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7368838,
+                    41.924625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Carniceria Guanajuato"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.75829519999999,
+                    41.92431819999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7427699,
+                    41.9308085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.74549909999999,
+                    41.9246386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fresh Market Place"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7522618,
+                    41.924293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7567174,
+                    41.91742240000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Morelia Supermarket Inc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7478498,
+                    41.93131019999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Carnitas Y Supermercado El Gigante"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.756686,
+                    41.926131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.76662549999999,
+                    41.9319734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7659552,
+                    41.9326297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fresh Market Place"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.76635739999999,
+                    41.9282951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Carniceria La Villa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.77095709999999,
+                    41.9198329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Supermercado el taxque\u00f1ito"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7834573,
+                    41.9218691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Carniceria Guanajuato"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7777304,
+                    41.9311928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.78633529999999,
+                    41.92622170000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Angelo Caputo's Fresh Markets - Elmwood Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.80704449999999,
+                    41.924506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.78871099999999,
+                    41.9259494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Target Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7897876,
+                    41.9299378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "G & R Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8130783,
+                    41.9306059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Belmont Harbor Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.63971769999999,
+                    41.9400079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Whole Foods Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6498127,
+                    41.9483258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.646152,
+                    41.94680810000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Whole Foods Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.668204,
+                    41.9399847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Target Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6513923,
+                    41.9402515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fresh Stop Produce and Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.652709,
+                    41.9400528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fresh Stop Deli"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6527138,
+                    41.940189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "supetwalmart"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6609452,
+                    41.93269399999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.67005920000001,
+                    41.9353485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trader Joe's"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.67514039999999,
+                    41.9498851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6643538,
+                    41.9481402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Target Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6695901,
+                    41.9418701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Joong Boo Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.71225849999999,
+                    41.9418004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6901003,
+                    41.9435177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7118467,
+                    41.9398328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Carniceria Guanajuato"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6979617,
+                    41.9387781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Target Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.70216500000001,
+                    41.945392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7086398,
+                    41.9453037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cermak Fresh Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.72833609999999,
+                    41.9322567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Los Potrillos"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.71845979999999,
+                    41.9394686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.71348549999999,
+                    41.9463269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Carnicerias Jimenez"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7601706,
+                    41.93874719999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Martin's Supermarket"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.75654469999999,
+                    41.94589999999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Food Market Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7521812,
+                    41.94595869999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Martin's Mini Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7470587,
+                    41.9498823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7941243,
+                    41.9380141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rich's Fresh Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.83317219999999,
+                    41.9365256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6568743,
+                    41.96376639999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.65344329999999,
+                    41.96130170000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fiesta Grocery Inc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6545717,
+                    41.9625808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "XMarket Bodega"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.65019509999999,
+                    41.9620211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "XMarket Food Hall"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6502464,
+                    41.96201490000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "First Stop Food Mart"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6545717,
+                    41.9625808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Target Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6565512,
+                    41.963416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Uptown Shop & Save"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.654611,
+                    41.9655709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Makola African Supermarket"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6556339,
+                    41.9652313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6823582,
+                    41.95845109999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6898964,
+                    41.96105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cermak Fresh Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7084051,
+                    41.9582586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Adrian's Foods Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.71054319999999,
+                    41.9612949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "HarvesTime Foods"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.69528199999999,
+                    41.96867750000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.71826829999999,
+                    41.9608145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chicago Produce"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7161467,
+                    41.9685115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7282749,
+                    41.9675227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Montrose Deli"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.76279570000001,
+                    41.96029379999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7448987,
+                    41.9552216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.76668389999999,
+                    41.9669044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7878071,
+                    41.9539927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Butera Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.78720899999999,
+                    41.96766299999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Amazon Fresh"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.80563289999999,
+                    41.9568867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Middle Eastern Market - Grocery Store"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8076261,
+                    41.9522322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Target Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8090663,
+                    41.9535179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8088429,
+                    41.9621961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rich's Foods & Liquors"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8065701,
+                    41.966247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.806103,
+                    41.9655136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Butera Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8347319,
+                    41.9600609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8380564,
+                    41.96556279999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Produce World on Cumberland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8356352,
+                    41.96554649999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8600278,
+                    41.9550387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "City Food & Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.83698869999999,
+                    41.9681486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6593051,
+                    41.9792092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tai Nam Food Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6589432,
+                    41.97241210000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Park To Shop Supermarket"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.65906439999999,
+                    41.9711048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Super Food & Liquors"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6572262,
+                    41.9835308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6691599,
+                    41.982806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Edgewater Produce"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.668245,
+                    41.98219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7099586,
+                    41.9682411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dukan International Food Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7085962,
+                    41.9677885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lindo Michoacan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.70773659999999,
+                    41.9686269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sahar International Supermarket - Grocery, Bakery & Halal Meat - Middle Eastern, Persian & Turkish"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7083013,
+                    41.9699682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7277397,
+                    41.97286219999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7298879,
+                    41.9762809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Seafood City Supermarket"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7455798,
+                    41.9728129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Target Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.74423999999999,
+                    41.97466319999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Andy's Deli & Mikolajczyk Sausage Shop Inc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7723807,
+                    41.9803164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewel-Osco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8110367,
+                    41.9751678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.65983539999999,
+                    41.9951665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Whole Foods Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6598272,
+                    41.9911522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kukulu Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6601867,
+                    41.99340589999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Target Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6609644,
+                    41.9989821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cermak Fresh Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6795794,
+                    42.0026821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Devon Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6670992,
+                    41.998324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Target Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6824652,
+                    41.9911965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Farm Supermarket"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6872027,
+                    41.9975084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Dollar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6901924,
+                    41.9951995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "World Fresh Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.69156,
+                    41.997961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "City Fresh Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.710032,
+                    41.9972275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Patel Brothers"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.69527400000001,
+                    41.99773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fresh Farms International Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6957444,
+                    41.9977104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6998768,
+                    41.9943932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kol Tuv Kosher Foods"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.703637,
+                    41.997675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mehrab Supermarket"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6912696,
+                    41.997602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Someria Food Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7002296,
+                    41.997742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Everyday Meat Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.70737969999999,
+                    41.99769200000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Whole Foods Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7486771,
+                    41.99064430000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shop & Save Market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7885373,
+                    41.9962003
+                ]
+            }
+        }
+    ]
+}
